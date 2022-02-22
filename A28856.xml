@@ -1,0 +1,935 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>No home but heaven A sermon, preached at the funerals of the right worshipful the Lady Sybilla Anderson, in the Church of Broughton, in the county of Lincoln. Octob. 30. 1661. By Edward Boteler, sometimes fellow of St. Mary Magdalen Colledge in Cambridge, and now rector of Wintringham, in the county of Lincoln, and chaplain to His Majesty.</title>
+            <author>Boteler, Edward, d. 1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 89 KB of XML-encoded text transcribed from 38 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28856</idno>
+            <idno type="STC">Wing B3803</idno>
+            <idno type="STC">ESTC R217243</idno>
+            <idno type="EEBO-CITATION">99828938</idno>
+            <idno type="PROQUEST">99828938</idno>
+            <idno type="VID">33371</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28856)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33371)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1984:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>No home but heaven A sermon, preached at the funerals of the right worshipful the Lady Sybilla Anderson, in the Church of Broughton, in the county of Lincoln. Octob. 30. 1661. By Edward Boteler, sometimes fellow of St. Mary Magdalen Colledge in Cambridge, and now rector of Wintringham, in the county of Lincoln, and chaplain to His Majesty.</title>
+                  <author>Boteler, Edward, d. 1670.</author>
+               </titleStmt>
+               <extent>[12], 62 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for G. Bedel, and T. Collins, at their shop next to the Middle-Temple Gate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M DC LXIV. [1664]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anderson, Sybilla, d. 1661 --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Funeral sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33371:1" rendition="simple:additions"/>
+            <p>No Home but Heaven. A SERMON, PREACHED At the FUNERALS of the Right Worſhipful the Lady <hi>Sybilla Anderſon,</hi> in the Church of <hi>Broughton,</hi> in the County of LINCOLN. <hi>Octob.</hi> 30. 1661.</p>
+            <p>By <hi>EDWARD BOTELER,</hi> Sometimes Fellow of <hi>St. Mary Magdalen</hi> Colledge in <hi>Cambridge,</hi> and now Rector of <hi>Wintring<g ref="char:EOLhyphen"/>ham,</hi> in the County of <hi>Lincoln,</hi> and Chaplain to His Majeſty.</p>
+            <q>
+               <bibl>Job 30.23.</bibl>
+               <p>Scio quia morti trades me, ubi conſtituta eſt do<g ref="char:EOLhyphen"/>mus omni viventi.</p>
+            </q>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Imprimatur.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Ex Aedib. Lamb.</hi> 
+                        <date>
+                           <hi>Nov.</hi> 9. 1663.</date>
+                     </dateline>
+                     <signed>Geo. Stradling S. T. P. Rev. in Chriſto Pat. D. Gi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>b. Archicp. Cant. à Sac. Domeſtic.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>LONDON, Printed for <hi>G. Bedel,</hi> and <hi>T. Collins,</hi> at their Shop next to the Middle-Temple Gate, MDCLXIV.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:33371:2"/>
+            <pb facs="tcp:33371:2"/>
+            <head>To The Right Worſhipful, Sir <hi>Philip Egerton,</hi> Of <hi>Oulton,</hi> in the County of <hi>Cheſter,</hi> Knight.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat theſe Leaves have loitered ſo long, is not their <hi>fault,</hi> but their <hi>fate:</hi> come<g ref="char:EOLhyphen"/>ing through the <hi>fire</hi> to you, where they had like to have met with their
+<pb facs="tcp:33371:3"/>
+               <hi>
+                  <g ref="char:V">Ʋ</g>rn,</hi> while they were pre<g ref="char:EOLhyphen"/>paring this account of your Siſter's <hi>Funerals.</hi> The beſt on't is her fame might have ſpared them, being as little increaſed by them, as Infinity is capa<g ref="char:EOLhyphen"/>ble of addition. Had they been all loſt, it could have been no detriment to that Name, which reſcues it ſelf, carries its Balme with it, and is its own preſervative.</p>
+            <p>And now, SIR, theſe Eſcapes of Ruine apply to you, to ſecure them a life againſt all future
+<pb facs="tcp:33371:3"/>hazards, and contingen<g ref="char:EOLhyphen"/>cies. It is their glory they may entitle them<g ref="char:EOLhyphen"/>ſelves to a <hi>Patron,</hi> who had the courage to under<g ref="char:EOLhyphen"/>take the Patronage of his Countrey, his Orphan Countrey, and that in the moſt deſperate dayes of thriving Rebellion. They have forgot themſelves, that remember not with paſſion <hi>that Loyal attempt</hi> of yours, with that excel<g ref="char:EOLhyphen"/>lent perſon, the now Lord <hi>De-la-Meere,</hi> for our re<g ref="char:EOLhyphen"/>demption and diſinſlave<g ref="char:EOLhyphen"/>ment; to whom the
+<pb facs="tcp:33371:4"/>whole Kingdom ſtill owe their acknowledgement, as poſſibly they might have done their recovery, had not God reſerved our De<g ref="char:EOLhyphen"/>liverance to be the work of his own immediate hand, in that meek and peaceful method, which raviſheth our thoughts to this very day. It was you, whom Honour commanded as far then, as the Oath did the <hi>Roman</hi> Souldiers of old,—<hi>Pugnabo pro ſacris &amp; cum aliis, &amp; ſolus.</hi>
+               <note place="margin">Judg. 5.18.</note> You then (as ſometimes <hi>Zebulon</hi> and <hi>Nephtali)
+<pb facs="tcp:33371:4"/>jeoparded your lives un<g ref="char:EOLhyphen"/>to death in the high pla<g ref="char:EOLhyphen"/>ces of the Field.</hi> I ſhould not be juſt to your merit, if I ſhould ſpeak of you at a lower rate, than that trium<g ref="char:EOLhyphen"/>phant Propheteſſe,
+<note place="margin">v. 9.</note> 
+               <hi>My heart is to the Princes of Iſrael, that offered themſelves freely.</hi> My heart, and many hearts more, were then, and are ſtill towards you, and towards God for you, in Prayers then, now in Praiſes. And I may ſay, (but let
+<pb facs="tcp:33371:5"/>me firſt begge leave of your modeſty to ſay ſo) That as Saint <hi>Auguſtine</hi> ſeemed to be borne an Antidote to his poyſon<g ref="char:EOLhyphen"/>ous Contemporary <hi>Pela<g ref="char:EOLhyphen"/>gius:</hi> So were you, to your peſtilent Countrey<g ref="char:EOLhyphen"/>man
+<note n="*" place="margin">Bradſhaw.</note>—whom no Pen can write without blot<g ref="char:EOLhyphen"/>ting, no tongue menti<g ref="char:EOLhyphen"/>on without ſpitting; The Margin take his Name, and the miſchief his Memory; whilſt your <hi>Name is written in Hea<g ref="char:EOLhyphen"/>ven,</hi> and ſtill repeats the flouriſhing Ages it hath
+<pb facs="tcp:33371:5"/>paſt on Earth in an in<g ref="char:EOLhyphen"/>terminate ſucceſſion, till the laſt Flames ſhall re<g ref="char:EOLhyphen"/>duce the World. And may the Amen himſelf make good the Votes of,</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your humbly Devoted Servant, <hi>Edward Boteler.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="elegy">
+            <pb facs="tcp:33371:6"/>
+            <pb facs="tcp:33371:6"/>
+            <head>In obitum praenobilis pariter atque ornatiſſimae Heroinae Dominae SYBILLAE ANDERSON, Domini EDMUNDI AN<g ref="char:EOLhyphen"/>DERSON, de <hi>Broughton,</hi> in Comitatu <hi>Lincoln</hi> Baronetti, haud ita pridem Defuncti, Con<g ref="char:EOLhyphen"/>jugis pientiſſimae.</head>
+            <lg>
+               <l>EXtremum, <hi>Heroina,</hi> tibi hunc impendo laborem,</l>
+               <l>Carminibuſque lito, <hi>Pieridaſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                  </hi> voco:</l>
+               <l>Carminibus lito, nam fuerant tibi carmina curae;</l>
+               <l>Haſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> voco, ſolitus nempe favere tibi.</l>
+               <l>Harum tu cultrix; Hae te coluere, colent<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>,</l>
+               <l>
+                  <hi>Muſiſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                  </hi> accedas ut decumana petent.</l>
+               <l>Barbiton, ecce, <hi>Thaleia</hi> ultrò tibi cedit, &amp; omnis</l>
+               <l>
+                  <hi>Nympha</hi> ſuas defert officioſa fides.</l>
+               <l>Tu dic, quae Muſa eſſe velis; jam<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> annue <hi>Juſtis</hi>
+               </l>
+               <l>Diva vocata tuis; carminibuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> fave.</l>
+               <pb facs="tcp:33371:7"/>
+               <l>Tam properè ſequeris praeeuntem? Nempe ſine illo</l>
+               <l>Tent âſti infelix vivere, nec poteras.</l>
+               <l>Hoccine obire, an abire? Petit <hi>Rhodopeïus</hi> Orco</l>
+               <l>
+                  <hi>Orpheus Euridicen; Orphea</hi> tu<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tuum.</l>
+               <l>
+                  <hi>Thrax</hi> olim <hi>Elyſias</hi> fidicen deſcendit ad umbras,</l>
+               <l>Obteſtans quicquid Numinis Orcus habet,</l>
+               <l>Ut charam <hi>Euridicen</hi> ſibiredderet; annuit Orcus;</l>
+               <l>Nec redit illa tamen; ſed redit ille tamen.</l>
+               <l>Tu non ſola redire voles: Te detinet umbra</l>
+               <l>Grata, &amp; dilecti Conjugis ora tui.</l>
+               <l>Tu ſuperas, quicquid delirat <hi>Graecia</hi> mendax,</l>
+               <l>Muſa<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> 
+                  <hi>Graiorum</hi> quicquid ineptit anus.</l>
+            </lg>
+            <lg>
+               <l>Quid primâ infelix referam, ſummârc querelâ?</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>irtutum ſtrages, heu, mihi quanta ſubit!</l>
+               <l>Effuſum eſt in te, quicquid reliquum extitit olim,</l>
+               <l>
+                  <hi>Virtutis Gregae,</hi> Cordis <hi>Egertonii.</hi>
+               </l>
+               <l>Nunc ſubeunt nivei mores, &amp; vita <hi>Sabina;</hi>
+               </l>
+               <l>Et mox Divino pectus amore calens.</l>
+               <l>Heupietas! heu priſcafides! Non <hi>Martius</hi> horror,</l>
+               <l>Non populi levitas, non novitatis amor,</l>
+               <l>Hnic mentem morere loco: <hi>Regemque Deumque;</hi>
+               </l>
+               <l>Immoto coluit pectore, mente, fide.</l>
+               <l>Quis <hi>Veneres</hi> oris duet, <hi>Charitaſque</hi> loquelae?</l>
+               <l>Quis totis haustam <hi>Pallada</hi> pectoribus?</l>
+               <l>Quid referam Proavos, cumulata<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſtemmata longo</l>
+               <l>Ordine majorum, <hi>Greya</hi> &amp; <hi>Egertonia?</hi>
+               </l>
+               <l>Quid decus aſcitum Thalamis, claroſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> 
+                  <hi>Hymenaeos,</hi>
+               </l>
+               <l>Tedam <hi>Anderſoniam, Bellotiaſque</hi> faces?</l>
+               <l>Quis reliquas panget laudes? Quis pyxida franget?</l>
+               <l>Quis Nardum &amp; latices ad pia juſta dabit?</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:33371:7"/>
+            <head>A SERMON, Preached at the FUNERALS of the Lady <hi>Sybilla Anderſon, Oct.</hi> 30. 1661.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is an excellent piece, that Draught of the good Woman we meet with <hi>Prov.</hi> 31. where, after the deli<g ref="char:EOLhyphen"/>neations of particular beauties, upon view taken of the ſymmetrical elegancy, and perfection of the whole by a judicious eye, this Sentence is given, <hi>v.</hi> 29. <hi>Many Daugh<g ref="char:EOLhyphen"/>ters have done vertuouſly, but thou ex<g ref="char:EOLhyphen"/>celleſt them all.</hi>
+            </p>
+            <p>If you ask whoſe picture it is, I will not ſay it was made for this <hi>accom<g ref="char:EOLhyphen"/>pliſhed Lady,</hi> whoſe Ruines are yet be<g ref="char:EOLhyphen"/>fore us, (for Expoſitors look on it as a vagous kind of Encomiaſtick, deſign<g ref="char:EOLhyphen"/>ing none, but intending any, that
+<pb n="2" facs="tcp:33371:8"/>could bid faireſt, and come neareſt up to it) But I may ſay, and I am perſwa<g ref="char:EOLhyphen"/>ded there are many more of my mind, there have ſcarce been any more like it, ſince it was drawn;
+<q>Sic occulos, ſic illa manus, ſic ora ferebat.</q>
+            </p>
+            <p>From hence it was, that when I was firſt ſummoned to ſurrender up my ſelf to this ſervice, I looked on it as a betraying of my ſelf, and ſtood it out with as much reſolution as might con<g ref="char:EOLhyphen"/>ſiſt with that piety I owe to her Re<g ref="char:EOLhyphen"/>mains, and that duty I profeſſe to her Relations. For, to ſpeak truly, ſuch a body of Rarities, would be dealt with as bodies under a learned diſſection; Every part, every particle, would have a day, and it would be too little too, for the Anatomiſt to read upon, and his skill had need be more than mine, or elſe the odds will be too great a<g ref="char:EOLhyphen"/>gainſt him ſtill, let him do what he can. But that's in vain to hope for; My time is ſet, and ſo ſcant it is, that to waſte any of it in Apology, or Pre<g ref="char:EOLhyphen"/>face, were to diſcover a greater want than I am begging pardon for. I ſhall
+<pb n="3" facs="tcp:33371:8"/>caſt my ſelf therefore upon your cha<g ref="char:EOLhyphen"/>rity, and fall next way upon my Text; A Text, one part whereof I have diſcourſed to this now <hi>happy Lady's</hi> ear, and the other I come here to de<g ref="char:EOLhyphen"/>dicate to her Exequies.</p>
+            <div type="part">
+               <head>It is written</head>
+               <epigraph>
+                  <q>
+                     <bibl>
+                        <hi>Hebr. 13.14.</hi>
+                     </bibl> But we ſeek one to come.</q>
+               </epigraph>
+               <p>CRazy, and ſickly times, are as a great warning Piece, diſcharged from Heaven, to ſtartle the ſecure world, whoſe ſoules for the moſt part lie open to a ſurprizal, like that peo<g ref="char:EOLhyphen"/>ple in the Prophet,
+<note place="margin">Jer. 49.31.</note> 
+                  <hi>having neither Gates nor Barrs, and dwelling without care.</hi> When diſeaſes graſſat, and grow epidemical, they come upon more than an ordinary errand: and it will not be enough that we take up that common diſcourſe of being minded of our mortality, unleſſe we conſult our immortality too.</p>
+               <p>This verſe furniſheth us with an Admonition of both.</p>
+               <pb n="4" facs="tcp:33371:9"/>
+               <p>Of our Mortality; <hi>We have here no continuing City.</hi>
+               </p>
+               <p>Of our Immortality; <hi>We ſeek one to come;</hi> Or if you pleaſe, the deceaſ<g ref="char:EOLhyphen"/>ed <hi>Lady,</hi> and I, will divide the verſe betwixt us.</p>
+               <p>She is a legible Sermon upon the former part, ſhewing you <hi>we have here no continuing City.</hi>
+               </p>
+               <p>Let me give you an Audible one upon the latter part, perſwading you <hi>to ſeek one to come.</hi>
+               </p>
+               <p>There's a word in our way would not be paſs'd by, or leap'd over, we muſt do it the right to ſpeak to it. <hi>But.</hi> But <hi>we ſeek</hi> one to come.</p>
+               <p>It is a particle of <hi>Diſcretion, Grama<g ref="char:EOLhyphen"/>rians</hi> tell us: and ſo it is here, in the beſt ſenſe, ſpeaks the greateſt <hi>Diſcre<g ref="char:EOLhyphen"/>tion</hi> in the world, when the tranſiency of our preſent conditio<g ref="char:cmbAbbrStroke">̄</g> makes us drive on immortal deſigns; and the reflect<g ref="char:EOLhyphen"/>ing upon that pitiful minute ſhare we have in this inch of time, influenceth ſo effectually upon us, as to put us up<g ref="char:EOLhyphen"/>on all poſſible proviſions for eternity. And that's the force and purport of the particle that brings in the Text, to make us, being diſcharged our hou<g ref="char:EOLhyphen"/>ſes
+<pb n="5" facs="tcp:33371:9"/>of fleſh, and like to turn out e're long, provide our ſelves of a Manſion, an abiding place, a ſeat of ſome cer<g ref="char:EOLhyphen"/>tainty, where we may fix, dwell, and take our reſt; <hi>We have here no conti<g ref="char:EOLhyphen"/>nuing City,</hi> but <hi>we ſeek one to come.</hi>
+               </p>
+               <p>Come we to the words; and obſer<g ref="char:EOLhyphen"/>ving St. <hi>Paul</hi>'s Rule, to preach <hi>abſque eminentia ſermonis,</hi>
+                  <note place="margin">1 Cor. 2.1.</note> without flaſh or flouriſh, I ſhall ſpend my diſcourſe up<g ref="char:EOLhyphen"/>on theſe three plain parts.</p>
+               <p n="1">1. A Deſcription of a Chriſtian's Inheritance. <hi>It is a City,</hi>
+               </p>
+               <p n="2">2. His Eſtate in it; it is a Rever<g ref="char:EOLhyphen"/>ſion only. <hi>It is to come.</hi>
+               </p>
+               <p n="3">3. His Demeanour towards it, till it comes to his hands; he ſeeks it. <hi>We ſeek one to come.</hi>
+               </p>
+               <div type="section">
+                  <p>For the title firſt; <hi>A City.</hi> Some<g ref="char:EOLhyphen"/>times it is called <hi>An Houſe;</hi> but of ad<g ref="char:EOLhyphen"/>mirable work, a rare Structure, the true Architecture;
+<note place="margin">2 Cor. 5.1.</note> 
+                     <hi>we have an Houſe</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>not made with hands, eter<g ref="char:EOLhyphen"/>nal in the Heavens.</hi>
+                  </p>
+                  <p>Sometimes it goes under the name of a <hi>Countrey. Via</hi> and <hi>Patria</hi> diſtin<g ref="char:EOLhyphen"/>guiſt the Worlds, This life is our <hi>way,</hi> that other our <hi>Countrey.</hi>
+                     <note place="margin">Cicero.</note> 
+                     <hi>Patria eſt ubicunque eſt benè,</hi> and that's no
+<pb n="6" facs="tcp:33371:10"/>where on this ſide Heaven.
+<note place="margin">Heb. 11.13, 14.</note> They <hi>confeſſed</hi> (ſaith our Apoſtle) <hi>that they were ſtrangers and pilgrims</hi> on the Earth; and <hi>declared plainly that they ſeek a Countrcy.</hi>
+                  </p>
+                  <p>Sometimes no leſs than a <hi>Kingdome</hi> will ſerve to expreſſe it;
+<note place="margin">Matth. 25.34.</note> 
+                     <hi>Come ye bleſ<g ref="char:EOLhyphen"/>ſed of my Father, inherit the Kingdome prepared for you from the foundation of the world.</hi> Thus Heaven, like the Bread of Heaven, will fit every palate, gratifie the reliſh of every ſoul, (as Saint <hi>Origen</hi> conceives of the Manna) Here's Houſe, and Kingdome, and Countrey, and City; it is any, it is all theſe; Seek it and you'll find it ſo. <hi>We ſeek one to come.</hi>
+                  </p>
+                  <p>But we'll keep to the Metaphor of the Text, A City. Heaven is the Ci<g ref="char:EOLhyphen"/>ty of the Saints. So it is called often, and borrows the name of <hi>Hieruſalem,</hi> the Metropolis of <hi>Judea,</hi>
+                     <note place="margin">Thren. 1.1.</note> The City <hi>that was great among the Nations, and Princeſſe among the Provinces.</hi>
+                     <note place="margin">Pſa 48.1, 2.</note> 
+                     <hi>The City of God, the Mountain of holineſſe, Beautiful for ſcituation, the joy of the whole Earth.</hi>
+                     <note place="margin">Rev. 21.10.</note> 
+                     <hi>He ſhewed me that great City, the holy Hieruſalem, deſcending out of Heaven from God.</hi> Hence they
+<pb n="7" facs="tcp:33371:10"/>have <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>ortus civicum,</hi>
+                     <note place="margin">Philip. 3.20.</note> as that word which our rendring gives <hi>Con<g ref="char:EOLhyphen"/>verſation</hi> doth rightly ſignifie. And they are <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, or <hi>Cives conſcri<g ref="char:EOLhyphen"/>pti, Fellow Citizens with the Saints,</hi>
+                     <note place="margin">Eph. 2.19.</note> 
+                     <hi>and of the houſhold of God.</hi>
+                  </p>
+                  <p>Pleaſe to ſee this <hi>City</hi> a while, and I hope it will raiſe you higher than <hi>Hie<g ref="char:EOLhyphen"/>ruſalem</hi> did the Kings of the Earth, of whom it is ſaid, <hi>They ſaw it,</hi>
+                     <note place="margin">Pſal 48 5.</note> 
+                     <hi>and ſo they marvelled.</hi>
+                  </p>
+                  <p n="1">1. <hi>A City:</hi> there's <hi>multitudo.</hi> It is a place of great receit, and enter<g ref="char:EOLhyphen"/>tainment. It is next to incredible, the number that were found in <hi>Hieruſa<g ref="char:EOLhyphen"/>lem</hi> without wedging, when the ſedi<g ref="char:EOLhyphen"/>tious within, and the Leaguer of <hi>Titus</hi> from without, had ſo thin'd them in the day of their deſolation. Such the <hi>City</hi> in the <hi>Text:</hi>
+                     <note place="margin">Joh. 14.2.</note> 
+                     <hi>In my Fathers houſe are many Manſions,</hi> ſayes our Lord; as if Heaven was parcell'd, and made all out into dwellings for the everlaſting reception of the Saints. God ſayes to St. <hi>Paul</hi> of <hi>Corinth,</hi>
+                     <note place="margin">Act 18.10.</note> 
+                     <hi>I have much people in this City:</hi> but what myriads of millions hath he here? Nations are little enough to expreſſe them:
+<note place="margin">Rev. 21.24.</note> 
+                     <hi>The Nations of them that are ſaved,</hi> he
+<pb n="8" facs="tcp:33371:11"/>calls them, that beſt knows their num<g ref="char:EOLhyphen"/>ber. When the Angel had ſealed the <hi>thouſands of Iſrael,</hi> after this, (ſaies St.
+<note place="margin">Rev. 7.9.</note> 
+                     <hi>John) I beheld, and loe, a great multi<g ref="char:EOLhyphen"/>tude, which no man could number, of all Nations, and Kindreds, and People, and Tongues ſtood before the Throne, and be<g ref="char:EOLhyphen"/>fore the Lamb, cloathed with white Robes, and Palmes in their hands.</hi> Though Gods <hi>Flock</hi> be little in compariſon of that great <hi>Hord,</hi> and thoſe <hi>Droves</hi> of the damned, yet ſhall they be nume<g ref="char:EOLhyphen"/>rous, when <hi>he ſhall ſend his Angels with a great ſound of a Trumpet, and they ſhall gather his Elect together from the four winds, from one end of heaven to the o<g ref="char:EOLhyphen"/>ther.</hi> A City, there's <hi>multitudo;</hi> That's a firſt.</p>
+                  <p n="2">2. <hi>A City:</hi> there's <hi>Fortitudo.</hi> Cities are places of ſtrength.
+<note place="margin">Gen. 4.17. <hi>Willet.</hi> Hexapl. <hi>in</hi> Gen.</note> 
+                     <hi>Cain</hi> thought the firſt builder of a City, did it for his defence, in his fear, when he thought every buſh a man, and every man a ſlayer. Thus, we read of Cities of Refuge, of walled Cities, great, and fenced up to Heaven.
+<note place="margin">Pſal. 48.12.</note> 
+                     <hi>Walk about Zi<g ref="char:EOLhyphen"/>on, and go round about her; tell the Tow<g ref="char:EOLhyphen"/>ers thereof.</hi> Much more may it be ſaid of <hi>Zion</hi> in the Antitype, the City in the
+<pb n="9" facs="tcp:33371:11"/>Text,
+<note place="margin">v. 3.</note> 
+                     <hi>God is known in her Palaces for a Refuge.</hi>
+                     <note place="margin">Job 3.17.</note> Here <hi>the wicked ceaſe from troubling; here the weary are at reſt.</hi>
+                     <note place="margin">Pſa. 91.1.</note> 
+                     <hi>He that dwelleth in the ſecret place of the moſt High, ſhall abide under the ſhadow of the Almighty.</hi>
+                     <note place="margin">Pſal. 89.22.</note> 
+                     <hi>The Enemy ſhall not ex<g ref="char:EOLhyphen"/>act upon him, nor the Son of wickedneſs afflict him.</hi>
+                     <note place="margin">Pſa. 91.4.</note> 
+                     <hi>He ſhall cover him with his feathers, and under his wings ſhall he truſt; his truth ſhall be his ſhield and buckler.</hi> When the Saints ſhall take poſſeſſion of this City, it ſhall be with ovation and triumph.
+<note place="margin">Iſa. 26.1.</note> 
+                     <hi>In that day ſhall this ſong be ſung, we have a ſtrong City, Salvation will God appoint for walls and bulwarks.</hi> Salvation muſt needs make ſtrong walls, and that City cannot but be inexpugnable, where God under<g ref="char:EOLhyphen"/>takes the fortification. A City: there's <hi>Fortitudo;</hi> that's a ſecond.</p>
+                  <p n="3">3. A City: there's <hi>Plenitudo.</hi> Ci<g ref="char:EOLhyphen"/>ties are places of opulency and fulneſs.
+<note place="margin">
+                        <hi>Locuples copiis civi<g ref="char:EOLhyphen"/>tas.</hi> Cic.</note> Neighbouring Towns and Villages, pour in their ſtore to encreaſe, and fur<g ref="char:EOLhyphen"/>niſh them. Such this City, and in ſuch an alluſion does the Holy Ghoſt ſpeak;
+<note place="margin">Rev. 21.24. v. 26.</note> 
+                     <hi>The Kings of the Earth do bring in their glory and honour into it. They ſhall bring the glory and honour of the
+<pb n="10" facs="tcp:33371:12"/>Nations into it.</hi> Look how the leſſer Towns and Vicinages do bring in their wealth and proviſion, &amp; contribute to the plenty and abundance of the Ci<g ref="char:EOLhyphen"/>ties; ſo ſhall the unceſſant confluence of all that is rich and glorious, advance the flouriſhing eſtate of the new <hi>Hie<g ref="char:EOLhyphen"/>ruſalem.</hi> The Author of this Epiſtle tells us,
+<note place="margin">Chro. 11.16.</note> 
+                     <hi>God hath prepared for them a City:</hi> Gueſs, if you can, what plenty there is like to be, where God himſelf makes preparation. There you ſhall find what the Apoſtle calls <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,
+<note place="margin">Eph. 3.8.</note> 
+                     <hi>the unſearchable,</hi> the imperve<g ref="char:EOLhyphen"/>ſtigable <hi>riches of Chriſt.</hi> There we ſhall ſee with enlightned underſtand<g ref="char:EOLhyphen"/>ings, what are <hi>the riches of the glory of his inheritance in the Saints;</hi>
+                     <note place="margin">Annot. in Eph 1.18. Mat. 6 20.</note> or, in the holy places, as the <hi>Italian Diodati</hi> gives it us out of his own language. There are thoſe Treaſures, where neither Moth nor Ruſt doth corrupt, nor Thieves break through and ſteal.
+<note place="margin">Luke 12.33.</note> There are thoſe <hi>Bags</hi> which wax not old, whoſe ſumms would poſe all tel<g ref="char:EOLhyphen"/>ling, could we caſt accounts with the Starrs.
+<note place="margin">Pſal. 50.2.</note> 
+                     <hi>In the perfection of beauty there God ſhineth.</hi>
+                     <note place="margin">Pſal. 84.1.2.</note> 
+                     <hi>How amiable are</hi> thoſe <hi>thy Tabernacles, O Lord of Hoſts! My
+<pb n="11" facs="tcp:33371:12"/>ſoul longeth, yea, even fainteh for the Courts of the Lord: my heart and my fleſh cryeth out for the living God.</hi> How have all the <hi>ſervants in our fathers houſe bread enough, and to ſpare,</hi>
+                     <note place="margin">Luke 15.17.</note> and we ſtay here and <hi>periſh for hunger?</hi> A City: there's <hi>Plenitudo;</hi> that's a third.</p>
+                  <p n="4">4. A City: there's <hi>Unitas.</hi> It is a Town incorporate, an union of ſeve<g ref="char:EOLhyphen"/>ral members in one body. Such our City here: what was ſaid of the old, may much rather be ſaid of the new <hi>Hieruſalem,</hi>
+                     <note place="margin">Pſal. 122.3.</note> 
+                     <hi>It is builded as a City that is at unity in it ſelf.</hi> There is</p>
+                  <p n="1">1. <hi>Unitas oris,</hi> an accord of voices. All tongues are tuned to praiſe. They do all <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, in St. <hi>Pauls</hi> phraſe,
+<note place="margin">1 Col. 1.10.</note> 
+                     <hi>ſpeak the ſame thing.</hi> And St. <hi>John</hi> tells us what it is, <hi>Bleſſing, honour,</hi>
+                     <note place="margin">Rev. 5.13.</note> 
+                     <hi>glo<g ref="char:EOLhyphen"/>ry, and power, be unto him that ſitteth upon the Throne, and unto the Lamb for ever and ever.</hi> The whole <hi>Chorus</hi> of Heaven and Earth joyne in this Song.</p>
+                  <p n="2">2. <hi>Unitas Cordis,</hi> an oneneſſe of heart and affection. They ſhall be <hi>perfectly joyned together in the ſame mind,</hi>
+                     <note place="margin">1 Col. 1.10.</note> and like thoſe believers in the <hi>Acts</hi> of the <hi>Apoſtles, of one heart,</hi>
+                     <note place="margin">Ch. 4.3<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> 
+                     <hi>and
+<pb n="12" facs="tcp:33371:13"/>of one ſoul.</hi> Here our affections ſtrag<g ref="char:EOLhyphen"/>gle, and run out divers waies; there they ſhall all come in, concenter, and take up in God. Here we differ in Diameter, conteſt ſharply, and like <hi>Paul</hi> and <hi>Barnabas,</hi> diſpute our ſelves aſunder; there we ſhall conſent, and be all compoſure, and harmony, and love,
+<note place="margin">Ep. 5. ad <hi>Marcel.</hi>
+                     </note> and joy, and peace: For this is a City, where <hi>Rex eſt veritas, Lex eſt charitas, modus aeternitas,</hi> in Saint <hi>Au<g ref="char:EOLhyphen"/>guſtines</hi> language. A City: there's <hi>Unitas;</hi> that's a fourth.</p>
+                  <p n="5">5. A City: there's <hi>Immunitas,</hi> Cities are infranchiſed and priviled<g ref="char:EOLhyphen"/>ged places; they have many free<g ref="char:EOLhyphen"/>doms above other Towns, and ſo, in the Apoſtle's words, <hi>Hieruſalem which is above,</hi>
+                     <note place="margin">Gal. 4 26.</note> 
+                     <hi>is free, which is the mother of us all.</hi>
+                  </p>
+                  <p>The priviledges of a City, among many others, are theſe two: The Seat. The Safetie.</p>
+                  <p n="1">1. <hi>The Seat.</hi> It is a prime privi<g ref="char:EOLhyphen"/>ledge to be the <hi>Royal Seat;</hi> the Cham<g ref="char:EOLhyphen"/>ber of Kings; the Reſidence of Maje<g ref="char:EOLhyphen"/>ſtie. It is much for the honour of <hi>Hie<g ref="char:EOLhyphen"/>ruſalem,</hi>
+                     <note place="margin">Pſal. 122.5.</note> that <hi>there are ſet Thrones of Judgement: the Thrones of the houſe
+<pb n="13" facs="tcp:33371:13"/>of David.</hi> And it is the glory of Hea<g ref="char:EOLhyphen"/>ven,
+<note place="margin">Heb. 12.22.</note> to be the Seat of the Eternal Ma<g ref="char:EOLhyphen"/>jeſty; <hi>The City of the Living God;</hi> The Reſidence Royal of the great King. <hi>The Lord hath choſen Zion;</hi>
+                     <note place="margin">Pſal. 132.13, 14.</note> 
+                     <hi>he hath deſired it for his habitation. This is my reſt for ever: here will I dwell, for I have deſired it.</hi> This Citie ſhall have a name above every name, and over<g ref="char:EOLhyphen"/>top the world with this Title,
+<note place="margin">Ezek. 48.35.</note> 
+                     <hi>Jeho<g ref="char:EOLhyphen"/>vah Shammah, the Lord is there.</hi> That's the firſt priviledge, the Seat.</p>
+                  <p n="2">2. <hi>The Safety.</hi> The ſecuritie it af<g ref="char:EOLhyphen"/>fords its Denizons and Inhabitants; which in this Citie are great and matchleſſe: for here is freedom.</p>
+                  <p>From the Impoſitions of Sin, the Oppoſitions of Satan, the Aſſaults of Time and Violence.</p>
+                  <p n="1">1. <hi>The Impoſitions of Sin:</hi> For this Citie makes every inhabitant Sin<g ref="char:EOLhyphen"/>free. It will diſinſlave him from the ar<g ref="char:EOLhyphen"/>bitrary power of commanding corru<g ref="char:EOLhyphen"/>ption, and thoſe lawleſſe luſts which were wont to impoſe upon him, are for ever kept out there: the City gates are ſhut upon them,
+<note place="margin">Rev. 21.27.</note> 
+                     <hi>and there ſhall in no wiſe enter into it any thing that defileth.</hi>
+                  </p>
+                  <pb n="14" facs="tcp:33371:14"/>
+                  <p n="2">2. <hi>The Oppoſitions of Satan;</hi> a privi<g ref="char:EOLhyphen"/>ledge that never Citie yet had. We of this Kingdom have cauſe to count this a priviledge indeed: for we can remember how buſie Satan was in our Cities, at the beginning of the late Commotions; what ſtorms be raiſed among giddie and tempeſtuous peo<g ref="char:EOLhyphen"/>ple. His manner was to transform in<g ref="char:EOLhyphen"/>to an Angel of light, get into a Citie, ſet up ſome <hi>Simon</hi> or other, whom the <hi>bewitched</hi> people of that <hi>City</hi> cried up as <hi>the great Power of God:</hi>
+                     <note place="margin">Acts 8.9, 10.</note> And the plot took ſo effectually, that we groan under the ſad ſucceſſe of it to this day. But this Citie of the Text is fortified againſt Satan, as <hi>Hieruſalem</hi> ſometime was againſt <hi>Senacherib,</hi> with a <hi>Dicit Dominus,</hi>
+                     <note place="margin">2 Kings 19.32. Rev. 12.7, 8, 9.</note> Thus ſaith the Lord, He ſhall not come into this Citie. <hi>The Dragon fought, and his Angels, and pre<g ref="char:EOLhyphen"/>vailed not, neither was their place found any more in Heaven. He was caſt out,</hi> and he comes no more there: The caeleſtial Paradiſe will admit no Ser<g ref="char:EOLhyphen"/>pent.</p>
+                  <p n="3">3. <hi>The Aſsaults of Time and Vio<g ref="char:EOLhyphen"/>lence:</hi>
+                     <note place="margin">Heb. 11.10.</note> and therefore it is called <hi>a City having foundations:</hi> as if other Cities
+<pb n="15" facs="tcp:33371:14"/>had no foundations: at leaſt they are next to none, ſuch as <hi>Job</hi> ſpeaks of, <hi>whoſe foundation is in the duſt;</hi> light,
+<note place="margin">Job 4.19.</note> volatile, unſtable duſt, as the word is there obſerved to ſignifie. Foundati<g ref="char:EOLhyphen"/>ons that cannot ſtand the ſhock of an Earthquake; which force may under<g ref="char:EOLhyphen"/>mine and blow up: or, if they eſcape theſe, time will aſſuredly bury in their own Ruines. Not a Citie beſides this of the Text, but we may ſay of it as our <hi>Antiquary</hi> doth of <hi>Rheban,</hi>
+                     <note place="margin">
+                        <hi>Camd. Brit. Ire<g ref="char:EOLhyphen"/>land.</hi> p. 86.</note> it is <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, a Citileſſe Citie.</p>
+                  <p>We read in the <hi>Eccleſiastical Hiſto<g ref="char:EOLhyphen"/>ry,</hi> of <hi>Simeon the Anchorite,</hi> who lived in the time of <hi>Domnus Biſhop of Anti<g ref="char:EOLhyphen"/>o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ch,</hi> that before that terrible Earth<g ref="char:EOLhyphen"/>quake, which ſhook in pieces <hi>Phoeni<g ref="char:EOLhyphen"/>cia,</hi> he whipp'd the pillars which ſtood in the Market-place, crying,
+<note place="margin">
+                        <hi>Evagr. Schol.</hi> l. 4. ca 33.</note> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, ſtand faſt, ye are like to dance ſhortly. Upon ſuch Pillars ſtand all ſublunary buildings; their foundred footing ſhakes their lofty tops. It ſtains their glory, and takes down their height, to think that ſad fate in the <hi>Prophet</hi> attends them; <hi>Thorns ſhall come up in their Palaces,</hi>
+                     <note place="margin">Iſa. 34.11, 13.</note> 
+                     <hi>Nettles and Brambles in the fortreſſes
+<pb n="16" facs="tcp:33371:15"/>thereof: and it ſhall be an habitation of Dragons, and a Court for Owls: And he ſhall ſtretch out upon it the line of confu<g ref="char:EOLhyphen"/>ſion, and the ſtones of emptineſſe.</hi>
+                  </p>
+                  <p>
+                     <hi>Babylon</hi> is now <hi>the glory of Kingdoms,</hi>
+                     <note place="margin">Iſa. 13 19.</note> 
+                     <hi>the beauty of the Caldees excellency:</hi> but preſently ſhall be as <hi>when God over<g ref="char:EOLhyphen"/>threw Sodom and Gomorrah. Nineveh</hi> the ranting <hi>Metropolis</hi> of <hi>Aſhur, the City of three dayes journey,</hi>
+                     <note place="margin">Jon. 3.3.</note> who <hi>multi<g ref="char:EOLhyphen"/>plyed her Merchants above the ſtars of heaven:</hi>
+                     <note place="margin">Nah. 3 16. Cap. 2.10.</note> 
+                     <hi>ſhe is now empty, and void, and waſte, and the heart melteth, and the knees knock together.</hi>
+                  </p>
+                  <p>
+                     <hi>Tyre, the joyous City, whoſe antiquity is of antient dayes: the crowning City, whoſe Merchants are Princes, whoſe Traffiquers are the honourable of the Earth:</hi>
+                     <note place="margin">Iſa. 23.7, 8.</note> She muſt not, cannot ſtand, for <hi>her own feet ſhall carry her afar off to ſojourn.</hi>
+                  </p>
+                  <p>
+                     <hi>Zion</hi> only cannot be moved, but ſtandeth faſt for ever. <hi>Her foundation is in the holy mountain.</hi>
+                     <note place="margin">Pſal. 87.1.3, 5.</note> 
+                     <hi>Glorious things are ſpoken of thee O City of God. The High<g ref="char:EOLhyphen"/>eſt himſelf ſhall eſtabliſh her. Urbs aeter<g ref="char:EOLhyphen"/>na,</hi> a title once given to <hi>Rome,</hi> is the due of this City in the Text, of none but this, the Eternal Citie. Here are
+<pb n="17" facs="tcp:33371:15"/>thoſe <hi>Gates</hi> that <hi>lift up their heads</hi> a<g ref="char:EOLhyphen"/>bove all, and here are thoſe <hi>everlaſt<g ref="char:EOLhyphen"/>ing doors for the King of Glory,</hi> and his Saints to <hi>enter in.</hi> Bleſſed are they that do his Commandments,
+<note place="margin">Rev. 22.14.</note> that they may have right to the <hi>Tree of Life,</hi> and may enter in through the Gates into the Citie: For <hi>as we have heard, ſo</hi> ſhall we one day <hi>ſee in the City of the Lord of Hoſts, in the City of our God,</hi>
+                     <note place="margin">Pſa. 48.8.</note> 
+                     <hi>God will eſtabliſh it for ever.</hi>
+                  </p>
+                  <p>And be that enough to have ſpo<g ref="char:EOLhyphen"/>ken to the firſt part of the Text, the title of a Chriſtians Inheritance: <hi>It is a City.</hi>
+                  </p>
+                  <p>Proceed we to the ſecond.</p>
+               </div>
+               <div type="section">
+                  <p>The Eſtate a Chriſtian hath in that Citie: it is a Reverſion. It is to come. <hi>We ſeek one to come.</hi>
+                  </p>
+                  <p>Not as if the Saints were quite out of poſſeſſion here: (for till they can come to their eſtate, it is often coming to them in the glimpſes and fore<g ref="char:EOLhyphen"/>taſtes of it.
+<note place="margin">Heb. 6.4, 5.</note> They <hi>taſte the heavenly gift, and the powers of the world to come.</hi> They have an Heaven upon Earth by communion with God;
+<note place="margin">1 Joh. 1.3.</note> by <hi>fellowſhip with the Father, and with his Son Jeſus Chriſt.</hi>) But it is to come, becauſe the
+<pb n="18" facs="tcp:33371:16"/>ſweet, and ſweight of it lies in the promiſes: what they have now, is ve<g ref="char:EOLhyphen"/>ry little compared with that full, free, and un-interrupted poſſeſſion a ſoul ſhall be put into, when he enters the everlaſting gates of the City of the great King. <hi>You are come to the City of the Living God,</hi> ſaies the Apoſtle. What? come to it already, and yet to come? Yes, (ſaies St <hi>Auguſtine) Credendo veniſti, ſed nondum per veniſti.</hi> You are in the Suburbs, but not yet in the City: for that's to come. <hi>We ſeek one to come.</hi>
+                  </p>
+                  <p>Our happineſſe conſiſts not in what we have, but what we hope for, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, (as St. <hi>Baſil</hi> ſpeaks) bleſſings repoſi<g ref="char:EOLhyphen"/>ted, and ſtored in Promiſes. And therefore the Holy Ghoſt in the Scri<g ref="char:EOLhyphen"/>ptural Deeds, and Conveyances of a Believers eſtate, makes ſo frequently uſe of phraſes of futurition.
+<note place="margin">Pſal. 97.11.</note> 
+                     <hi>Light is ſown for the righteous.</hi> Sown, it's but growing and coming on. <hi>Adhuc mea meſſis in herba.</hi>
+                     <note place="margin">Pſa. 31.19.</note> 
+                     <hi>O how great is thy good<g ref="char:EOLhyphen"/>neſſe, which thou haſt laid up for them that fear thee?</hi> It is great goodneſſe, but it is laid up.
+<note place="margin">Eph. 1.14.</note> The Apoſtle calls what we have now, <hi>Pignus,</hi> only the
+<pb n="19" facs="tcp:33371:16"/>Pledge and Earneſt: that <hi>Redemptio acquiſitionis</hi> is yet behind, poſſeſſion is in reſerve, and but coming. <hi>We ſeek one to come.</hi>
+                  </p>
+                  <p>Nor have we any cauſe to ſuſpect the hand of Providence as over-cloſe, or reproach our Father with unkindneſs, for keeping our eſtate ſo long from us: there's a threefold good intended us by this deteinure, the thoughts of which may be uſeful, 'twill keep a good underſtanding betwixt us and Heaven; for thereby <hi>our Graces are rendred active, our Affections ardent, our Poſſeſſion welcome.</hi>
+                  </p>
+                  <p n="1">1. <hi>It will keep Grace in action.</hi> Ma<g ref="char:EOLhyphen"/>ny Graces are now ſet on work, and imployed by this reſpite of happineſs, that would be idle, that would not be at all, were we in poſſeſſion of it.</p>
+                  <p>There are three notable Graces, that live beſt, that only live upon re<g ref="char:EOLhyphen"/>verſion and futuritie.</p>
+                  <p n="1">1. <hi>Faith;</hi> precious Faith. That <hi>argumentum non apparentium,</hi>
+                     <note place="margin">Heb. 11.1.</note> the evi<g ref="char:EOLhyphen"/>dence of things not ſeen; ſo it is called by that Apoſtle, who came neareſt this Citie of any that retreated into pilgrimage. The promiſes are <hi>Pabulum
+<pb n="20" facs="tcp:33371:17"/>Fidei;</hi> Faith lives wholly and ſolely upon hereafter; She ſees beſt when the object is furtheſt off; <hi>Videbo cum, ſed non modò:</hi> I ſhall ſee him, but not now:
+<note place="margin">Num. 24.17.</note> I ſhall behold him, but not nigh. Had God given <hi>Abraham Canaan</hi> in preſent, where had been work for that vigorous faith of his, whoſe quick eye ſaw through the thick diſtance of four hundred years;
+<note place="margin">Gen. 15.13.</note> and whoſe long arms reach'd a promiſe over the heads of ſo many intervening Generations? Give in hand, and take away Faith. For <hi>Fides eſt credere quod non vides, cujus merces eſt videre quod credidiſti;</hi> ſo St. <hi>Auguſtine.</hi>
+                  </p>
+                  <p n="2">2. <hi>Hope,</hi> which is inconſiſtent with poſſeſſion.
+<note place="margin">Ro. 8.24.</note> For hope that is ſeen, is not hope. As Faith advanceth to ſight, ſo Hope ſhall commence fruiti<g ref="char:EOLhyphen"/>on.
+<note place="margin">Heb. 6 19</note> Hope is the <hi>Anchor of the ſoul;</hi> It is ſerviceable whilſt abroad in the ſtorm, the Harbour will not need it. Enjoyment ſuperſedes hope: it is one great purpoſe of God, in keeping his people, and their poſſeſſions aſunder, that they may learn to live in hopes of them;
+<note place="margin">1 Pet. 1.13.</note> 
+                     <hi>hope to the end, for the grace that is to be brought</hi> to them <hi>at the revelation of Jeſus Chriſt.</hi>
+                  </p>
+                  <pb n="21" facs="tcp:33371:17"/>
+                  <p n="3">3. <hi>Patience,</hi> which can have no tri<g ref="char:EOLhyphen"/>al after this life. It is a Grace which lives only in ill times.
+<note place="margin">Plin.</note> It is the Bird that hatcheth in thunder. When it comes to <hi>killing with the Sword,</hi>
+                     <note place="margin">Rev. 13.10. Rom. 5 <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> 
+                     <hi>here is the patience of the Saints. Tribulati<g ref="char:EOLhyphen"/>on worketh patience:</hi> and when tribula<g ref="char:EOLhyphen"/>tion worketh not, patience is idle, is not. We cannot be patient in the day, when we ſhall be impaſſible. <hi>Be patient Brethren,</hi>
+                     <note place="margin">Jam. 5.7</note> 
+                     <hi>unto the coming of the Lord;</hi> till then, longer you need not, you cannot be. When he comes, he calls from work,
+<note place="margin">Rev. 22.12.</note> and brings <hi>his reward with him.</hi> When he comes, he will ceaſe both ſin and ſuffering, wipe away tears, and bring in <hi>the times of refreſh<g ref="char:EOLhyphen"/>ing from the preſence of the Lord.</hi>
+                     <note place="margin">Acts 3.19.</note> Pati<g ref="char:EOLhyphen"/>ence is in ſeaſon whilſt we can be in ſuffering, we ſhall be paſt both toge<g ref="char:EOLhyphen"/>ther. It is good company whilſt we are in our way, in our Countrey there's neither room nor reaſon for it.
+<note place="margin">Heb. 12.1, 2.</note> 
+                     <hi>Let us run with patience the race that is ſet be<g ref="char:EOLhyphen"/>fore us;</hi> when that's done, we ha' no further uſe of it; with the author and finiſher of our faith, we ſhall ſit down on the Throne of God. Patience is the contemporary of our pilgrimage;
+<pb n="22" facs="tcp:33371:18"/>we part when we enter upon our eter<g ref="char:EOLhyphen"/>nity.</p>
+                  <p>And they are the three Graces which this reverſion of our eſtate ren<g ref="char:EOLhyphen"/>ders active: which is the firſt particu<g ref="char:EOLhyphen"/>lar.</p>
+                  <p n="2">2. It makes affection ardent. Suſ<g ref="char:EOLhyphen"/>penſe ſets an edge on the ſoul, as faſt<g ref="char:EOLhyphen"/>ing begets appetite. It makes a thirſt after the <hi>waters of life,</hi> an hungring after the <hi>hidden Manna,</hi> a very greedi<g ref="char:EOLhyphen"/>neſs of glory, to Tantalize (as it were) over immortal joyes, to have happi<g ref="char:EOLhyphen"/>neſs in view, and yet be held off from it: this wings deſire, and ſets the ſoul on longing. Let <hi>David</hi> be a while ex<g ref="char:EOLhyphen"/>cluded from earthly <hi>Zion,</hi> (gueſs then what the heavenly <hi>Zion</hi> will do) and how earneſtly doth he breath, how paſ<g ref="char:EOLhyphen"/>ſionately expreſs his longings after it.
+<note place="margin">Pſal. 42.1, 2.</note> 
+                     <hi>As the Hart</hi> hunted (ſay ſome) or (as one worth all the reſt,
+<note place="margin">
+                        <hi>Annot. in</hi> Pſ.</note> the invaluable Doctor <hi>Hammond</hi>) feeding in a dry and parched wilderneſs, finding no water, going about, and making a mournful noiſe for it: as this <hi>Hart panteth after the water Brooks, ſo panteth my ſoul after thee O God. My ſoul thirſt<g ref="char:EOLhyphen"/>eth for God, for the living God, when ſhall
+<pb n="23" facs="tcp:33371:18"/>I come and appear before God?</hi> It makes Affection ardent. That's a ſecond.</p>
+                  <p n="3">3. <hi>It renders Poſseſſion welcome.</hi> The forty years traverſe in the wilderneſſe, ſweetens the peace and plenty of <hi>Ca<g ref="char:EOLhyphen"/>naan:</hi> and when we have ſtaid a while in the <hi>Tents of Kedar,</hi> we admire the more the <hi>Curtains of Solomon.</hi> As it is with an Heir apparent to ſome fair E<g ref="char:EOLhyphen"/>ſtate, whereof the greateſt part hath been in the hands of Longaevous Pa<g ref="char:EOLhyphen"/>rents, and ſome other parcels poſſibly have ſtrayed out into tough and dura<g ref="char:EOLhyphen"/>ble Joyntures; he huggs and applauds himſelf, that at length the mouth of his expectation is made up, and the deſired <hi>All</hi> is come into his hands; with ſuch, with more than ſuch, with infinite more than ſuch delight, do poor pilgrim Saints enter upon the <hi>In<g ref="char:EOLhyphen"/>heritance in light,</hi>
+                     <note place="margin">Col. 1.12.</note> and the reſpited glo<g ref="char:EOLhyphen"/>ry of the other world. And this is by ſome Divines conceived one thing wherein the bliſs of men may be call<g ref="char:EOLhyphen"/>ed more than that of Angels; becauſe Angels ſhall be where they were, and their eſtate not improved, (except a<g ref="char:EOLhyphen"/>ny will ſay, that Chriſt was this of ad<g ref="char:EOLhyphen"/>vantage to the Angels, that he did
+<pb n="24" facs="tcp:33371:19"/>confirm them when he redeemed us, in which I determine nothing) but men ſhall have the garment of praiſe for the ſpirit of heavineſs: after a wet ſeeds time,
+<note place="margin">Pſa. 126.5.</note> 
+                     <hi>(They that ſow in tears,)</hi> comes a fair Harveſt,
+<note place="margin">Phil. 3.21.</note> 
+                     <hi>(ſhall reap in joy.)</hi> There ſhall be <hi>a change of</hi> their <hi>vile bo<g ref="char:EOLhyphen"/>dies, that they may be faſhioned like unto Chriſts glorious body.</hi>
+                     <note place="margin">1 Cor. 15.53.</note> Their <hi>corruptible ſhall put on incorruption, and mortality ſhall be ſwallowed up of life.</hi> And this is that will make heaven more hea<g ref="char:EOLhyphen"/>ven;
+<note place="margin">Heb. 11.9.</note> becauſe they <hi>ſojourned as in a ſtrange Countrey, dwelling in Taberna<g ref="char:EOLhyphen"/>cles, with Abraham, and Iſaac, and Ja<g ref="char:EOLhyphen"/>cob, the heirs with them of the ſame Pro<g ref="char:EOLhyphen"/>miſe.</hi> This is that will make the <hi>Ta<g ref="char:EOLhyphen"/>bernacles of the Lord of Hoſts more ami<g ref="char:EOLhyphen"/>able; becauſe the ſoul hath been kept at a diſtance,</hi> and looked after them with <hi>longing.</hi> This City will be more wel<g ref="char:EOLhyphen"/>come when it comes, becauſe it is to come; the laſt Reaſon of the detein<g ref="char:EOLhyphen"/>ure of our eſtates, <hi>We ſeek one to come.</hi>
+                  </p>
+                  <p>Give me leave now but to ſhew you a piece of ſpiritual good husbandry, to tell you how you may improve this Eſtate in Reverſion, and I ſhall
+<pb n="25" facs="tcp:33371:19"/>paſs from this particular.</p>
+                  <p>Thank God for it. Value your ſelves by it. Live ſutably to it.</p>
+                  <p n="1">1. <hi>Be thankful for this eſtate.</hi> It is a rich one. The reſerves of heavenly glory, are infinitely more than all the enjoyments of the treaſures of the earth.
+<note place="margin">Pſa 31.19.</note> The <hi>goodneſſe laid up</hi> for one Saint, is much more than the good<g ref="char:EOLhyphen"/>neſſe laid out upon all the world.
+<note place="margin">Iſa. 17 14.</note> God might have given you <hi>a portion with the men of the</hi> (age, or) <hi>world,</hi> in this life, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. as the <hi>Seventy two</hi> render it, in this life of theirs: and poſſibly you had better ha' been with<g ref="char:EOLhyphen"/>out it, it will be more eaſie for you in the day of your accounts. A conflu<g ref="char:EOLhyphen"/>ence of outward things is not always a kindneſſe. <hi>Wo unto you that are rich,</hi>
+                     <note place="margin">Luk. 6.2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> 
+                     <hi>for you have received your conſolation.</hi> What a ſad <hi>Recordare</hi> doth <hi>Abraham</hi> ſet upon the rich mans <hi>Recepiſti</hi> in the Goſpel. <hi>Son,</hi>
+                     <note place="margin">Luk. 16.25.</note> 
+                     <hi>remember that thou in thy life time receivedſt thy good things.</hi> It is the ve<g ref="char:EOLhyphen"/>ry <hi>Emphaſis</hi> of evil, to have received all our good. <hi>If in this life only we have hope in Chriſt,</hi>
+                     <note place="margin">1 Cor. 15.19.</note> 
+                     <hi>we are of all men moſt miſerable.</hi> But God hath <hi>provided ſome better thing for us,</hi> (ſaith the Apoſtle)
+<pb n="26" facs="tcp:33371:20"/>ſure, ſomething extraordinary it is, that's of Gods providing. It is the in<g ref="char:EOLhyphen"/>valuable advantage of a Believer, that he hath his portion to receive, when all the treaſures of the Earth ſhall be exhauſted; that he ſhall enter upon his eſtate, when all the inhabitants of the world ſhall turn out, and be eter<g ref="char:EOLhyphen"/>nally diſpoſſeſſed; that he ſhall be on the taking hand, when they ha' no<g ref="char:EOLhyphen"/>thing to look for but thoſe damnable debenturs of wrath, and vengeance; when all's paſt and gone with others, and they have not one atome of hopes left, then's his all to come. <hi>We ſeek one to come.</hi> Be thankful for this eſtate; that's the firſt improvement.</p>
+                  <p n="2">2. Value your ſelves by this eſtate. Account not what you are, but what you ſhall be. If you look as a Believer now,
+<note place="margin">Pſa. 68.13. <hi>Sionit. a<g ref="char:EOLhyphen"/>upud D. Hammond. Ann. in loc.</hi>
+                     </note> you'll find him it may be, <hi>lying among the pots, (inter ſcobes,</hi> as ſome give it from the <hi>Syriack,</hi> among the broken pieces of Brick, uſed to ſet the Pots on, the receptacle of the Soot and Aſhes, and ſo betokening a low and abject condition) and this will miſ-re<g ref="char:EOLhyphen"/>preſent him: if you will ſee him in his proper colours and complexion, look
+<pb n="27" facs="tcp:33371:20"/>at what follows, <hi>Yet ſhall ye be as the wings of a Dove covered with ſilver, and her feathers with the yellowneſs of pure Gold.</hi> It is utterly the fault of Chriſtians, to meaſure themſelves by the ſtandard of the world, and value their eſtate by the rate-book of crea<g ref="char:EOLhyphen"/>tures: for ſo whilſt they inventory what Goods they have, they are al<g ref="char:EOLhyphen"/>waies poor; whereas, would they look only at what they hope for, they could ſee no end of their riches. If you would take a right ſurvey of your eſtats, look at them in promiſes. A Believers life conſiſteth not in the abundance of the things which he poſſeſſeth, but in the aſſurance of the things which he expecteth. Expectation is the great riches of a Believer. <hi>My ſoul,</hi>
+                     <note place="margin">Pſa. 62.5.</note> 
+                     <hi>wait thou only upon God, for my expectation is from him.</hi> The mercies we have in expecta<g ref="char:EOLhyphen"/>tion, are tranſcendently beyond what<g ref="char:EOLhyphen"/>ever the hand of Heaven will give, or the arms and boſome of the Earth can poſſibly receive in preſent.</p>
+                  <p>It was high, that of <hi>Alexander,</hi> who being asked, when he was dealing whole Lands and Lordſhips among his Commanders, if he meant to give
+<pb n="28" facs="tcp:33371:21"/>all away, replied, It is nothing I give away, for I keep Hope to my ſelf. It is a gracious gallantry, and becoming a Chriſtian, when he ſees the Earth cut out among the great poſſeſſors of it, to raiſe his ſpirit high as his expectation. Alas!
+<note place="margin">Col. 1.5.</note> theſe are nothing, I have <hi>hope laid up in Heaven for me:</hi> Theſe eſtates are all going, mine is coming. <hi>We ſeek one to come.</hi> Value your ſelves by this eſtate; that's the ſecond improve<g ref="char:EOLhyphen"/>ment.</p>
+                  <p n="3">3. Live ſutably to this eſtate. And one thing is, you cannot live above it, the ordinary miſchief of eſtates here below: (for the more you live upon it, the faſter it comes in, the more you have of it. It is not ſo like the Widow of <hi>Zarepta</hi>'s Barrel of Meal that wa<g ref="char:EOLhyphen"/>ſted not,
+<note place="margin">1 Kin. 17.16. Met. 15.37.</note> as the miraculous <hi>Loaves</hi> in the Goſpel, that multiplied by being fed upon.) all the danger is of living under it, the too familiar practice of thoſe that pretend (at leaſt) a title to it, and to look for it. How do men live, as if there were no life but this: purſue eſtates in this world, as if they had neither hopes nor deſires of ano<g ref="char:EOLhyphen"/>ther:
+<note place="margin">Exod. 16.3.</note> preferring <hi>Fleſh-pots</hi> and <hi>Ony<g ref="char:EOLhyphen"/>ons,</hi>
+                     <pb n="29" facs="tcp:33371:21"/>before <hi>Quails</hi> and <hi>Manna:</hi> the ve<g ref="char:EOLhyphen"/>ry Brick-Kilns of <hi>Egypt,</hi> before the glorious ſtones of the new <hi>Hieruſalem:</hi> Poſſeſſions in houſes of clay, before the reverſions of the City of God. If thy treaſure be in Heaven, why is not thy heart there alſo? If thy hopes be laid up, then what doſt thou poring here below? — <hi>Heu regni, rerum<g ref="char:EOLhyphen"/>que oblite tuarum?</hi> Conſult the credit of thine eſtate and hopes: do nothing unworthy ſuch pregnant expectation: let thy deſigns be taller than ſubcoele<g ref="char:EOLhyphen"/>ſtial: evidence thy aims to be above the world: proceed in mortification and ſelf-denial: <hi>Confeſs</hi> thy ſelf a <hi>ſtran<g ref="char:EOLhyphen"/>ger</hi> and <hi>pilgrim</hi> on the earth;
+<note place="margin">Heb. 11.14.</note> they that do ſo <hi>declare plainly that they ſeek a Countrey:</hi> that they <hi>have here no con<g ref="char:EOLhyphen"/>tinuing City, but ſeek one to come.</hi>
+                  </p>
+                  <p>Which is the third way of improve<g ref="char:EOLhyphen"/>ment of this eſtate in reverſion; <hi>Live ſutably to it.</hi> And that for the ſecond part of the Text; the eſtate which a Believer hath in the heavenly City, it is a Reverſion only, a City it is, but that City is to come. <hi>We ſeek one to come.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <p>The third now only remains; The
+<pb n="30" facs="tcp:33371:22"/>demeanour of a Chriſtian towards that Reverſion, till his eſtate comes into his hands, he ſeeks it, <hi>We ſeek</hi> one to come.</p>
+                  <p>I ſhall contract, and ſo ſpeak of <hi>ſeeking,</hi> that we loſe no time. It is ob<g ref="char:EOLhyphen"/>ſerved the ſimple word imports, <hi>Ar<g ref="char:EOLhyphen"/>dorem &amp; ſtudium,</hi> a more than ordina<g ref="char:EOLhyphen"/>ry earneſtneſs in ſeeking:
+<note place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>. Mat. 7.7</note> and is there<g ref="char:EOLhyphen"/>fore joyned with words, and actions of importunity; ſo that in compoſition (as it is here uſed) the force being aug<g ref="char:EOLhyphen"/>mented, it denotes the higheſt and moſt eager aſpirations of the ſoul; <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>Expetimus</hi> (as ſome have rendred it) we ſeek effectu<g ref="char:EOLhyphen"/>ally, and come up to the object in pur<g ref="char:EOLhyphen"/>ſuit: we ſeek with invincible purpo<g ref="char:EOLhyphen"/>ſes, not to come ſhort, or be taken off, not to be baffled with any difficulties, but to ſeek till we find, thus <hi>We ſeek one to come.</hi>
+                  </p>
+                  <p>Briefly, Seeking ſpeaks;</p>
+                  <p>
+                     <hi>Quaerendi ſedulitatem.</hi>
+                  </p>
+                  <p>
+                     <hi>Inveniendi difficultatem.</hi>
+                  </p>
+                  <p>Diligence in ſeeking, and difficul<g ref="char:EOLhyphen"/>ty in finding; them two.</p>
+                  <p n="1">1.
+<note place="margin">
+                        <hi>Novarin. in</hi> Matth.</note> Diligence in ſeeking. <hi>Ingentem voluntatis propenſionem notat:</hi> it ſhews
+<pb n="31" facs="tcp:33371:22"/>heart, and good will: the engaging and ſetting on all the powers of the ſoul. It expreſſeth a painful endeavour, and excepteth againſt a cool and faint velleity.
+<note place="margin">
+                        <hi>Lud. de vi<g ref="char:EOLhyphen"/>ta Chri.</hi> p. 1. c. 40.</note> 
+                     <hi>Non enim poteſt fieri ſine co<g ref="char:EOLhyphen"/>natu magno, quod homo terrenus fiat Civis in coelo.</hi> A right of Citizen is not ſo eaſily obtained in the new <hi>Hieruſalem,</hi> none that's there diviſion'd but upon the chief Captains terms; <hi>with a great ſum</hi> (not of ſilver and gold,
+<note place="margin">Act. 22.28.</note> but with the precious blood of Chriſt) <hi>obtained I this freedom;</hi> and 't will coſt him pains beſides, ere he find it. It's no ſeeking as the woman ſought in the Poet, — <hi>tanquam quae vincere nollet;</hi> but as the woman ſought in the Para<g ref="char:EOLhyphen"/>ble, <hi>She lights a Candle,</hi>
+                     <note place="margin">Luk. 15.8</note> 
+                     <hi>ſweeps the houſe,</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, and ſeeketh exactly, acurately, ſolicitouſly,
+<note place="margin">Luk. 16.3.</note> 
+                     <hi>dili<g ref="char:EOLhyphen"/>gently, till ſhe find it.</hi> The Steward in the Goſpel, that was to ſeek for a place, could not <hi>dig,</hi> and to <hi>beg</hi> he was aſhamed: but he that ſeeks the City in the Text, muſt do it in Wiſdome's mode and method, who diſpenſeth with neither; A man muſt both beg and dig for her, and well he can com<g ref="char:EOLhyphen"/>paſſe her ſo too; He muſt beg; <hi>If thou
+<pb n="32" facs="tcp:33371:23"/>cryeſt after knowledge,</hi>
+                     <note place="margin">Prov. 2.3.</note> 
+                     <hi>and lifteſt up thy voice for underſtanding.</hi>
+                     <note place="margin">
+                        <hi>v.</hi> 4</note> And he muſt dig too; <hi>if thou ſeekeſt her as ſilver, Et ſicut the ſauros effoderis illam;</hi> and dig<g ref="char:EOLhyphen"/>geſt for her as for hid treaſures. It muſt be a labour like that of men in a Mine, where deſire ſets induſtry on work, and makes Diligence indefatigable.</p>
+                  <p>Diligence in ſeeking; that's the firſt impoſt. 2. Difficulty in find<g ref="char:EOLhyphen"/>ing. If it were eaſily come to, what need endeavours? if obvious, why ſuch ſeeking? Saint <hi>Auguſtine</hi> tells us of a threefold book for the guidance of Travellers to this City; <hi>Naturae, Scripturae, Creaturae,</hi> and yet all will not do, a number miſſe the way for all theſe Directors.</p>
+                  <p>There are four things make this dif<g ref="char:EOLhyphen"/>ficulty.</p>
+                  <p n="1">1. <hi>Via Arcta.</hi> 2. <hi>Civitas ignota.</hi> 3. <hi>Impugnantium vis.</hi> 4. <hi>Ducentium varietas.</hi>
+                  </p>
+                  <p n="1">1. <hi>Via arcta.</hi> The way is norrow: it is not eaſie to find; and ſo no won<g ref="char:EOLhyphen"/>der the Prophet tells us of a <hi>Neſcie<g ref="char:EOLhyphen"/>runt,</hi>
+                     <note place="margin">Iſa. 59.8</note> 
+                     <hi>They have not known the way of peace;</hi> and the <hi>Pſalmiſt</hi> complains with an <hi>Omnes declinaverunt,</hi>
+                     <note place="margin">Pſa. 14.3.</note> 
+                     <hi>They are all
+<pb n="33" facs="tcp:33371:23"/>turned aſide, and gone out of the way.</hi> The Paſſengers are ſo few, the way is not beaten.
+<note place="margin">Judg. 5.6.</note> It is like thoſe <hi>high-wayes in the dayes of Shamgar, the ſon of Anath,</hi> that <hi>were unoccupied,</hi> whilſt the Tra<g ref="char:EOLhyphen"/>vellers went <hi>per calles devios,</hi> through by-waies. Or like thoſe <hi>wayes of Sion,</hi>
+                     <note place="margin">Thren. 1.4.</note> that <hi>mourned</hi> when <hi>none came to her ſo<g ref="char:EOLhyphen"/>lemn Feaſts,</hi> The ports and paſſages to Life, are very ſtrait, the way lies all <hi>per anguſta;</hi> it is but a Lane that leads to the large and delightful Fields of <hi>Elyſium.</hi> The way to Hell is broad e<g ref="char:EOLhyphen"/>nough, it is a Road, that to this City is but a Path; <hi>Thou wilt ſhew me the path of life:</hi>
+                     <note place="margin">Pſa. 16.11.</note> 
+                     <hi>in thy preſence is fulneſs of joy, at thy right hand are pleaſures for evermore.</hi>
+                  </p>
+                  <p n="2">2. <hi>Civitas ignota.</hi> The City is little known, and ſo as little regarded. Ma<g ref="char:EOLhyphen"/>ny talk of it, few underſtand it. It is a gift not given to all;
+<note place="margin">Matth. 13.11.</note> 
+                     <hi>It is given unto you to know the myſteries of the Kingdom of Heaven,</hi> (ſaith our Saviour) <hi>but to them it is not given.</hi> It is a parable to the moſt. Men are well vers'd in the Regions of the lower world, but their thoughts ſeldom travel ſo far as Hea<g ref="char:EOLhyphen"/>ven. They gaze at the ſtars, and con<g ref="char:EOLhyphen"/>template
+<pb n="34" facs="tcp:33371:24"/>the beauty of the Suburbs: but they are ſtrangers to the <hi>Chryſtal River,</hi>
+                     <note place="margin">Rev. 22.1.</note> and the <hi>Tree of Life,</hi> in the midſt of the ſtreet of the City.</p>
+                  <p n="3">3. <hi>Impugnantium vis.</hi> The power and ſtrength of enemies, which way<g ref="char:EOLhyphen"/>lay all that travel to this City. No coming hither unaſſaulted. <hi>Iſrael</hi> my<g ref="char:EOLhyphen"/>ſtical muſt, as the literal did, encoun<g ref="char:EOLhyphen"/>ter Giants, fight the <hi>Anakims,</hi> and force a paſſage into <hi>Canaan. Tranſivi<g ref="char:EOLhyphen"/>mus per ignem &amp; aquam:</hi>
+                     <note place="margin">Pſ. 66.12.</note> 
+                     <hi>&amp; eduxiſti nos in refregerium;</hi> It is a tranſit of fire and water that brings to the wealthy place. The combinations of hell and darkneſſe are up to attack us: we muſt expect to <hi>wreſtle againſt Principalities and Powers,</hi>
+                     <note place="margin">Eph. 6.12.</note> 
+                     <hi>and the Rulers of the dark<g ref="char:EOLhyphen"/>neſs of this world, againſt ſpiritual wick<g ref="char:EOLhyphen"/>edneſses in high places.</hi> Nor is all peace at home, <hi>Hannibal ad portas</hi> is not all, our inteſtine ſtirs give us no little trou<g ref="char:EOLhyphen"/>ble: <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, ſaies the Apoſtle of our luſts, they are an Army diſciplin'd and drawn up,
+<note place="margin">1 Pet. 2.11. Ch. 7.1.</note> 
+                     <hi>They war againſt the ſoul.</hi> Nay, <hi>Militia eſt vita hominis ſuper ter<g ref="char:EOLhyphen"/>ram,</hi> (as the vulgar Latin reads that of <hi>Job</hi>) the life of man is a warfare upon earth. The Church now writes mili<g ref="char:EOLhyphen"/>tant,
+<pb n="35" facs="tcp:33371:24"/>ingaged on all hands: we are in <hi>Joab</hi>'s caſe,
+<note place="margin">2 Sa. 10.9.</note> 
+                     <hi>The front of the battel is a<g ref="char:EOLhyphen"/>gainſt us, before and behind,</hi> and there<g ref="char:EOLhyphen"/>fore had beſt follow his counſel,
+<note place="margin">
+                        <hi>v.</hi> 12.</note> 
+                     <hi>Be of courage, and let us play the men for the Ci<g ref="char:EOLhyphen"/>ty of our God.</hi>
+                  </p>
+                  <p n="4">4. <hi>Ducentium varietas.</hi> Difference a<g ref="char:EOLhyphen"/>mong guides, and a ſtrange kind of va<g ref="char:EOLhyphen"/>riety of them that attempt to lead. Hence it is, that the greateſt part of followers are miſled, <hi>Viam per avia quaerentes,</hi> and ſo miſtaking their City,
+<note place="margin">2 Kings 6.19.</note> are in a caſe like that of the ſilly <hi>Syri<g ref="char:EOLhyphen"/>ans;</hi> who blind, thought they were for <hi>Dothan,</hi> but ſeeing, found themſelves at <hi>Samaria.</hi> The world is full of miſ<g ref="char:EOLhyphen"/>guides. To ſay nothing of the more bruitiſh part of men, that lie ſo deep buried in the ruines of the fall, they know no guide but that of ſenſe; there is a wiſer ſort, who have ſomewhat e<g ref="char:EOLhyphen"/>merged thoſe deſolations, and recover<g ref="char:EOLhyphen"/>ed ſome ſteps of degraded nature, fol<g ref="char:EOLhyphen"/>lowing <hi>Rationem ſuſcitatam</hi> (as the Schools ſpeak) Reaſon ſet up by the advantages of moral acquirings: that yet are not ſecure againſt deflections, and in danger, at leaſt, to come ſhort of this City. <hi>Eraſmus</hi> indeed ſeems to
+<pb n="36" facs="tcp:33371:25"/>juſtifie the ſufficiency of this conduct, unleſs he play the wanton with us in a piece of Letany; <hi>Vix poſsum me continere quid dicam,</hi> Sancte Socrates <hi>Ora pro nobis.</hi> But there's no great heed to be had to <hi>Eraſmus</hi>'s opinion in point of Guides, who followed ſuch an one himſelf as could not lead him through to this City,
+<note place="margin">Jud. <hi>v.</hi> 13.</note> or elſe they do him wrong that picture him in the mid-way betwixt Heaven and Hell. But of all, commend me to the men of wild fire, thoſe <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. (in the Apoſtles termes) that with their Erratick lights, will needs ſhew us a new way to this City, neither Patriarch, nor Prophet, nor Apoſtle, nor any of the Saints of for<g ref="char:EOLhyphen"/>mer ages, were acquainted with. And which is the miſchief on't, ſome be<g ref="char:EOLhyphen"/>lieve them too; they want not fol<g ref="char:EOLhyphen"/>lowers,
+<note place="margin">Iſa. 9.16.</note> ſuch as they are. <hi>For the Leaders of this people cauſe them to erre, and they that are led of them, are deſtroyed.</hi> The vulgar Latin in that place is very expreſſive; <hi>Et e<g ref="char:EOLhyphen"/>runt qui beatificant populum iſtum ſe<g ref="char:EOLhyphen"/>ducentes, &amp; qui beatificantur, praeci<g ref="char:EOLhyphen"/>pitati:</hi> Their ſeducers ſhall bleſſe
+<pb n="37" facs="tcp:33371:25"/>them, or thoſe that bleſſe them, ſhall ſeduce them. Juſt our caſe for all the world: whilſt thoſe that head, and lead them, bleſs them, call them the bleſſed ones, the honeſt men, the people of God, even then are they ſeducing them, and precipitating them into ruine.
+<note place="margin">Pſal. 49.13.</note> Of theſe we may ſay as the Pſalmiſt, <hi>This their way is their glory.</hi> Never were men ſo out of the way, as in theſe diſtracting dayes, wherein ſo many pretend to conduct.
+<note place="margin">Mat. 24.23.</note> 
+                     <hi>Loe here is Chriſt, and loe there!</hi> Loe he is in this form, in that Sect, flying up and down, and crying him (as Lapwings do their young) to be every where but where he is. Such a ſtir once made <hi>Theudas,</hi>
+                     <note place="margin">Act. 5.36, 37.</note> and <hi>Judas</hi> of <hi>Galilee,</hi> who would needs be ſome body in their times, and drew away much people after them, who were ſcattered and brought to nought. And ſuch a buſtle made <hi>Primianus,</hi> and <hi>Maximianus,</hi> in Saint <hi>Augu<g ref="char:EOLhyphen"/>ſtine</hi>'s dayes, thought worthy of their names by a giddy faction, whom they headed; whilſt <hi>Poſtremianus,</hi> and <hi>Minimianus,</hi> were titles more be<g ref="char:EOLhyphen"/>coming their merits, and manners,
+<pb n="38" facs="tcp:33371:26"/>in the judgement of that learned Fa<g ref="char:EOLhyphen"/>ther. This was our caſe, and well it is that we can ſay it was ſo. Bleſſed be God for better Guides, that <hi>though the Lord gave us the bread of ad<g ref="char:EOLhyphen"/>verſity,</hi>
+                     <note place="margin">Iſa. 30.20.</note> 
+                     <hi>and the water of affliction,</hi> yet our <hi>Teachers</hi> are not ſtill in a <hi>Corner, but our eyes may ſee our Teachers.</hi>
+                  </p>
+                  <p>The finding this <hi>City</hi> muſt needs be difficult, where the way is ſo nar<g ref="char:EOLhyphen"/>row. The <hi>City</hi> ſo little known. The Oppoſition ſo great, and falſe Guides ſo many</p>
+                  <p>Difficulty of finding, that's the ſe<g ref="char:EOLhyphen"/>cond import of ſeeking. <hi>We ſeek one to come.</hi>
+                  </p>
+                  <p>For a cloſe of all then; Let this difficulty in finding, put you upon reſolves of ſeeking this <hi>City. Dicit Piger:</hi> it is the ſluggard that ſaith, <hi>There is a Lion without,</hi>
+                     <note place="margin">Prov. 22.13.</note> 
+                     <hi>I ſhall be ſlain in the ſtreets.</hi> A generous ſpirit is ſo far from deſponding, that he heigh<g ref="char:EOLhyphen"/>tens his courage in the face of dan<g ref="char:EOLhyphen"/>ger. Conſider that <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,
+<note place="margin">Heb. 2.10.</note> 
+                     <hi>the Captain of our ſalvation,</hi> and thoſe triumphant Troops, that are now wearing the Laurel of im<g ref="char:EOLhyphen"/>mortality, how they were all <hi>made
+<pb n="39" facs="tcp:33371:26"/>perfect through ſufferings.</hi> For, tell us you noble Army of Martyrs, you invincible Confeſſors, who now are cloathed in white Robes,
+<note place="margin">Rev. 7.9. Ch. 14.4.</note> and have Palms in your hands, and follow the Lamb whither ſoever he goeth: how got you into poſſeſſion of your City? How came you to enter thoſe <hi>Gates of Pearl,</hi>
+                     <note place="margin">Ch 21 21.</note> and to tread thoſe Streets paved with pure Gold? Did you not ſtrive to enter? Did you not ſeek it, ſeek it in good earneſt, be<g ref="char:EOLhyphen"/>fore you found it? Are not you they <hi>who through faith ſubdued Kingdomes,</hi>
+                     <note place="margin">Heb. 11.33, 34.</note> 
+                     <hi>wrought righteouſneſſe, obtained pro<g ref="char:EOLhyphen"/>miſes, ſtopped the mouths of Lions, quenched the violence of fire, eſcaped the edge of the ſword, out of weakneſs were made ſtrong, waxed valiant in fight, turned to flight the Armies of the ali<g ref="char:EOLhyphen"/>ens?</hi> Here was <hi>Par animis periculum,</hi> Danger great as the ſouls of them that encountred it. <hi>Men and Bre<g ref="char:EOLhyphen"/>thren,</hi> you ſee what ſeeking is: what mountains of Oppoſition you muſt top, and overpaſſe: what an Ocean of troubles you muſt cut through: what an Armado of difficulties you muſt charge: all which lye betwixt
+<pb n="40" facs="tcp:33371:27"/>you and this <hi>City.</hi> Let me therefore beſpeak you in that Apoſtolical Ex<g ref="char:EOLhyphen"/>hortation,
+<note place="margin">1 Cor. 16.13.</note> 
+                     <hi>Watch ye, ſtand faſt in the faith, quit you like men, be ſtrong.</hi> As for ſome of thoſe difficulties, which have diſtracted ſo many, and put them to a loſſe in the late unhappy daies, through mercy you need not fear them: the falſe lights are al<g ref="char:EOLhyphen"/>moſt out: the Batts and Owls that peſter'd us in the dark, are gone to their holes, and diſ-appear now the Sun is up;
+<note place="margin">Gen. 45.21.</note> I ſhall therefore <hi>Give you ſome proviſion for the way,</hi> (as <hi>Joſeph</hi> did his Brethren) only direct you to ſeek in a couple of particulars, and I ha'done. <hi>Orderly, Opportunely,</hi> them two.</p>
+                  <p n="1">1. Seek this City <hi>Orderly:</hi> and that both as to <hi>means</hi> and <hi>end.</hi>
+                  </p>
+                  <p n="1">1.
+<note place="margin">Jer. 6.18.</note> As to the <hi>means. Thus ſaith the Lord, ſtand ye in the waies, and ſee, and ask for the old paths, where is the good way, and walk therein, and ye ſhall find reſt for your ſouls.</hi> Take heed of new, and untrodden paths, how fair and green ſoever they look. It is the ſame City, and the ſame way leads to it, Mortification, Self-denial, Faith,
+<pb n="41" facs="tcp:33371:27"/>Repentance, Obedience, the uſe of Prayer, the Word, and Sacrament, — <hi>En qua via ducit in urbem.</hi> Be<g ref="char:EOLhyphen"/>ware of letting down Boats from the Ship,
+<note place="margin">Act. 27.30, 31.</note> (as Saint <hi>Pauls</hi> Ship-men would ha' done) of gathering Chur<g ref="char:EOLhyphen"/>ches out of the Church, except <hi>ye abide in the Ship</hi> ye cannot be ſa<g ref="char:EOLhyphen"/>ved.</p>
+                  <p n="2">2. As to the <hi>End.</hi> That's <hi>primum in intentione,</hi> the firſt thing in a wiſe mans thoughts, though laſt in his at<g ref="char:EOLhyphen"/>chievings.
+<note place="margin">Mat 6.33.</note> Our Saviours <hi>Quaerite primùm,</hi> directs us to this method, tells us <hi>quaerite</hi> will not do without <hi>primùm: Firſt ſeek the Kingdom of God.</hi> Let this City be uppermoſt in your minds, and go along with your leading thoughts. Be ſure the Dew of Heaven go before the Fatneſs of the Earth. Set it at your right hand now, and it will give you that place at the laſt day. To ſeek any thing before it, is to be to ſeek for every thing, and ſit down with loſſe. It is an inverſion of order, to ſeek it any where but firſt. <hi>Seek it Orderly,</hi> that's firſt.</p>
+                  <p n="2">2. <hi>Seek it Opportunely. To every
+<pb n="42" facs="tcp:33371:28"/>thing there is a ſeaſon,</hi>
+                     <note place="margin">Eccle. 3.1.</note> 
+                     <hi>and a time to e<g ref="char:EOLhyphen"/>very purpoſe under Heaven;</hi> and then ſurely to ſeeking Heaven above all. <hi>Hic eſt vitae finis, pervenire ad vitam cujus non eſt finis.</hi> This life is our ſeaſon for making ſure of another. <hi>Every thing is beautiful in his time,</hi> ſaies the <hi>Princely Preacher.</hi>
+                     <note place="margin">
+                        <hi>v.</hi> 11.</note> The beauty of a flower is in it's ſeaſon, of fruit in it's ſeaſon; and a ſoul ſeeking Heaven in ſeaſon, is the greateſt beauty on this ſide the Sun. Op<g ref="char:EOLhyphen"/>portunity is that <hi>price in the hand,</hi>
+                     <note place="margin">Prov. 17.16.</note> if there be but <hi>a heart to it,</hi> that's all, and <hi>Fool</hi> is his name that hath not. Opportunity ſeems to ſay to us (as our Saviour to the Phariſees) <hi>Yet a little while am I with you,</hi>
+                     <note place="margin">Joh. 7.33, 34.</note> 
+                     <hi>and then I go to him that ſent me: Ye ſhall ſeek me,</hi>
+                     <note place="margin">Iſa. 55.6.</note> 
+                     <hi>and ſhall not find me. Seek ye the Lord while he may be found.</hi> There is a time while God may, and when he will not be found. The everlaſt<g ref="char:EOLhyphen"/>ing arms will not alwaies be open for reception. The healing wings will not always be expanded and ſtretched out for gathering. The Spirit will not alwaies ſtrive with Fleſh. Pa<g ref="char:EOLhyphen"/>tience will not alwayes bear, nor
+<pb n="43" facs="tcp:33371:28"/>Long-ſuffering wait for ever.
+<note place="margin">Mat. 25.11, 12.</note> The fooliſh Virgins ſought to enter, but 'twas too late, an intempeſtive ſeek<g ref="char:EOLhyphen"/>ing, and ſo went without, <hi>Neſcio vos,</hi> was their doom: <hi>Verily I ſay un<g ref="char:EOLhyphen"/>to you, I know you not. Eſau,</hi> with his after-wit,
+<note place="margin">Heb. 12.17.</note> 
+                     <hi>would have inherited</hi> the bleſſing, but was rejected: for he <hi>found no place of repentance, though he ſought it carefully with tears.</hi>
+                     <note place="margin">Luk 16.24, 26.</note> The rich man in torments would have had but a drop of water, and 't would not, could not be, for <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>The Gulf is fixed;</hi> Mercy can have no paſſe; all intercourſe is cut off, and hopeleſſe.
+<note place="margin">2 Co. 6.2.</note> 
+                     <hi>Now is the accepted time,</hi> with an <hi>Ecce</hi> before it, that you may take ſpecial notice of it; behold now is the day of ſalvati<g ref="char:EOLhyphen"/>on. Now is, and but now is, not is now, and ever ſhall be. <hi>The Morn<g ref="char:EOLhyphen"/>ing cometh, and alſo the night.</hi> Our dayes wheel away in their viciſſi<g ref="char:EOLhyphen"/>tudes, and we purpoſe to enquire and ſeek, but when begin we? <hi>Si quaeri<g ref="char:EOLhyphen"/>tis, quaerite,</hi> if you will enquire, en<g ref="char:EOLhyphen"/>quire ye: return, come. The Ci<g ref="char:EOLhyphen"/>ty to come, will not be come to without ſeeking. <hi>But we ſeek one to come.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <pb n="44" facs="tcp:33371:29"/>
+               <p>I paſſe now from the Text, to the occaſion of our meeting; or ra<g ref="char:EOLhyphen"/>ther from one Text to another. And a large one it is, that I am now to ſpeak on: no leſſe than the Memo<g ref="char:EOLhyphen"/>rials of that Elect Lady, the <hi>Lady Sybilla Anderſon,</hi> that miracle of her ſex and time. A Text, not for an hour, but an age: not for a Sermon, but a Volumn. Her very name is a Sermon to them that knew her. And if any in the Congregation was ſo unhappy as to be a ſtranger to her, I ſhall give them a gueſſe at her, ſcarce ſo much, I dare venture at no more.</p>
+               <p>
+                  <hi>A woman that feareth the Lord,</hi>
+                  <note place="margin">Prov. 31.30.</note> 
+                  <hi>ſhe ſhall be praiſed,</hi> ſaies <hi>Solomon;</hi> or ra<g ref="char:EOLhyphen"/>ther (if I miſtake not) ſaies Queen <hi>Bathſheba,</hi> in her inſtructions to King <hi>Lemuel,</hi> alias, <hi>Solomon</hi> her Son. Do you ask who ſhall praiſe her? God ſhall praiſe her in the Judgement, <hi>Then ſhall every man</hi> and woman <hi>have praiſe of God.</hi>
+                  <note place="margin">1 Cor. 4.5. Prov. 31.31.</note> 
+                  <hi>Let her own works praiſe her in the Gates.</hi> But works are not loud enough to praiſe her to the deaf world:
+<note place="margin">Ibidem. Diodat. in Loc.</note> may ſhe not then have ſome other help? Yes. <hi>Give her of the
+<pb n="45" facs="tcp:33371:29"/>fruit of her hands.</hi> Let every one give her that praiſe, honour, and bleſſing, which ſhe deſerves by rea<g ref="char:EOLhyphen"/>ſon of her vertues. Miniſter and People, every one owes their contri<g ref="char:EOLhyphen"/>bution; here's a warrant for any, for all to praiſe her. So that I care not much, if there chance to be here any of that ſower and ſullen genera<g ref="char:EOLhyphen"/>tion, that are againſt all order, and decency, both to the living and to the dead.</p>
+               <p>And now methinks I am much<g ref="char:EOLhyphen"/>what in the caſe of <hi>Elihu; En ven<g ref="char:EOLhyphen"/>ter meus quaſi muſtum abſque ſpiraculo!</hi>
+                  <note place="margin">Job 32.18, 19.</note> 
+                  <hi>As Wine which hath no vent. For I am full of matter, and the ſpirit within me conſtraineth me.</hi> And I will fol<g ref="char:EOLhyphen"/>low his courſe; I will ſpeak that I may breath.</p>
+               <p>Wee'll begin (if you pleaſe) at her beginning, her extraction, and original. She and it were mutually credits to one another. She was none of thoſe Ladies of the late edi<g ref="char:EOLhyphen"/>tion; thoſe falſe printed pieces, for whom the juſt God hath now provi<g ref="char:EOLhyphen"/>ded a <hi>Deleatur,</hi>
+                  <note place="margin">Pſal. 109.13.</note> 
+                  <hi>In the generation fol<g ref="char:EOLhyphen"/>lowing, let their name be blotted out.</hi>
+                  <pb n="46" facs="tcp:33371:30"/>She was deſcended (ſaith our <hi>Anti<g ref="char:EOLhyphen"/>quary</hi> and <hi>Oracle</hi>) from the <hi>Barons of Malpas,</hi>
+                  <note place="margin">Camd. Brit. in Cheſhire.</note> and that's as high and far, as we can with any certainty trace the footſteps of honour; which I would not name, if her perſonal worth had not been anſwerable; her graces were the more reſplendent for it; as a Jewel ſet in Gold is more rich and o<g ref="char:EOLhyphen"/>rient, than when it is unpoliſh'd, and in its native dirt.</p>
+               <q>
+                  <l>— Nec cenſus in illa</l>
+                  <l>Nobilitate ſua major:
+<note place="margin">
+                        <hi>Ovid. Met.</hi> l. 9.</note> 
+                     <hi>ſed vita fideſque</hi>
+                  </l>
+                  <l>Inculpata fuit —</l>
+               </q>
+               <p>If we look at her perſonal excel<g ref="char:EOLhyphen"/>lencies, they were many and rare, I ſhall ſpeak of them firſt, and then of her relative merits.</p>
+               <p>Her out-ſide preſents it ſelf firſt to view, and that was ever decent, and ſuiting her degree; not light and vain, the too familiar folly of that ſex, who by their garb might go for Adventures in ſome ſuch Ship as that of <hi>Solomons,</hi>
+                  <note place="margin">1 K. 10.22.</note> 
+                  <hi>that brought Apes and Peacocks.</hi> She was none of thoſe La<g ref="char:EOLhyphen"/>dies the Father chides,
+<note place="margin">Bern.</note> 
+                  <hi>Quae fulgent
+<pb n="47" facs="tcp:33371:30"/>monilibus, ſordent moribus,</hi> whoſe Jewels were rich, and Manners ruſty.
+<note place="margin">Pet. 3.3.</note> Her adorning was after Saint <hi>Peters</hi> dreſſe, not that <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>That outward, of plating the hair, and of wear<g ref="char:EOLhyphen"/>ing of gold, or of putting on of apparel: but the hidden man of the heart, in that which is not corruptible, the ornament of a meek and quiet ſpirit, which is in the ſight of God of great price.</hi>
+               </p>
+               <p>Her countenance was grave and ſober, and ſerene too.
+<note place="margin">Ovid.</note> She was <hi>Pol<g ref="char:EOLhyphen"/>lens Matrona,</hi> in the Poets phraſe, a Lady of an authoritative aſpect; a Correctoreſs of ſin in her very looks: inſomuch that thoſe whom neither Law nor Conſcience could oblige to a regular compoſure elſewhere, ſtu<g ref="char:EOLhyphen"/>died a deportment, and durſt not truſt their demeanour without a watch and guard in her preſence.</p>
+               <p>Her carriage affable, free, curte<g ref="char:EOLhyphen"/>ous: and yet ſo exact, ſhe left no place to faſten an accuſation upon her, even by the moſt critical Ani<g ref="char:EOLhyphen"/>madvertors upon lives and actions.</p>
+               <p>Her wit quick and ſharp, but ſuch an allay of humility withal, that it ne<g ref="char:EOLhyphen"/>ver made any ſallies to the prejudice
+<pb n="48" facs="tcp:33371:31"/>of her judgement and prudence.</p>
+               <p>Her diſcourſe pregnant, proper, ſignificative, unaffected. The tongue, that <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, as St. <hi>James</hi> calls it,
+<note place="margin">Jam. 3.8.</note> ſo unruly in others, was by her well commanded. Like that good wo<g ref="char:EOLhyphen"/>man in the Proverbs,
+<note place="margin">Ch. 31.26.</note> 
+                  <hi>She opened her mouth in wiſdom, and in her tongue was the Law of kindneſs.</hi> She opened it in wiſdom; ſhe did not open it at ran<g ref="char:EOLhyphen"/>dome, and continually, but duely ſhut it, and diſcreetly opened it. Her ſpeech paſs'd <hi>Davids Watch,</hi>
+                  <note place="margin">Pſa. 141 3.</note> which ſtood at the <hi>door of her lips:</hi> and ſhew'd Saint <hi>Pauls</hi> ſeaſoning,
+<note place="margin">Col 4.6.</note> had abundance of ſalt, ſalt of wit, and ſalt of grace. This captiv'd her Auditors whilſt they were with her, and ſeldom ſent them from her without wonder, — <hi>Nec vox hominem ſonat, O Dea certe.</hi> —</p>
+               <p>She was another <hi>Abigail</hi> for her wiſ<g ref="char:EOLhyphen"/>dom, another <hi>Sybil</hi> indeed, for ſhe did <hi>Rem nominis implere,</hi> ſo make good her name, that (for ought I know) ſhe may make good her place too a<g ref="char:EOLhyphen"/>mong thoſe celebrated Propheteſſes, whoſe fame hath fill'd the world.</p>
+               <p>Her knowledge, ſo general, ſo di<g ref="char:EOLhyphen"/>vine, that ſhe might ſeem born to ju<g ref="char:EOLhyphen"/>ſtifie
+<pb n="49" facs="tcp:33371:31"/>the probability of that ſtrange Convention,
+<note place="margin">
+                     <hi>Anno</hi> 694. <hi>Sr. H. Spelm. Counc. p.</hi> 190.</note> under <hi>Withred</hi> King of <hi>Kent,</hi> and <hi>Bertuald</hi> Arch-biſhop of <hi>Britain,</hi> (or <hi>Canterbury</hi>) where Wo<g ref="char:EOLhyphen"/>men ſate in Council, and ſubſcribed tranſactions Eccleſiaſtical.</p>
+               <p>This, all this, more than this, ſhe was in her ſelf. Let us now view her in her References.</p>
+               <p n="1">1. <hi>To God,</hi> before whom ſhe walk<g ref="char:EOLhyphen"/>ed, and with whom ſhe now is in glo<g ref="char:EOLhyphen"/>ry. Him ſhe loved, feared, ſerved; which is more for her honour, com<g ref="char:EOLhyphen"/>fort, and advantage, than all thoſe ac<g ref="char:EOLhyphen"/>compliſhments of fleſh and blood, which might gain her a name on earth, but never provide her a place in heaven. And to this I ſhall bring in two ſufficient witneſſes.</p>
+               <p n="1">1. Her private Devotions, which were due and conſtant: thinking no day well ſpent, wherein ſhe did not ſend to Heaven, and exchange pray<g ref="char:EOLhyphen"/>ers for mercies with him whom her ſoul loved. And for her furtherance and advantage in this duty, ſhe was wont to cut her ſelf out work, by keeping Catalogues of her ſins, that none might eſcape her confeſſion,
+<pb n="50" facs="tcp:33371:32"/>when ſhe came to proſtrate her ſoul before the all-ſeeing Eye. I have ſeen (but very lately, I wiſh I had ſeen them ſooner, you might have had a better account of them) ſome papers under her own hand, wherein ſhe had writ<g ref="char:EOLhyphen"/>ten what ſins ſhe deſired might be blotted out: what mercies were ſea<g ref="char:EOLhyphen"/>ſonable to beg, for her ſelf, her Rela<g ref="char:EOLhyphen"/>tions, the Church, the Kingdome. And herein ſhe dealt faithfully, would not wink at ſmall faults in her ſelf; Book'd her very failings, and Item'd the leaſt infirmity, which doubtleſs will make the way eaſie, and happy for paſſing her laſt accounts,
+<note place="margin">Apocal. 20.12.</note> and clear<g ref="char:EOLhyphen"/>ing her in that day, when the <hi>Books</hi> ſhall be opened.</p>
+               <p>And for theſe prayers of hers, ma<g ref="char:EOLhyphen"/>ny fared better, and may do now ſhe is gone: her ſelf, her family, her friends, may I not ſay the whole Kingdome? Have we not cauſe to think, that the contributions of her prayers, among many others, helped not a little to bring <hi>His moſt Excellent Majeſty</hi> in, upon thoſe juſt and ho<g ref="char:EOLhyphen"/>nourable grounds, which we look at, not without joy and aſtoniſhment this
+<pb n="51" facs="tcp:33371:32"/>day?
+<note place="margin">Exod. 17.11.</note> The hands of <hi>Moſes</hi> lifted up on the Mount, gave <hi>Amalek</hi> the rout, when the Arms of all <hi>Iſrael</hi> in the val<g ref="char:EOLhyphen"/>ley, were of no force.</p>
+               <p n="2">2. <hi>Her zeal to the Houſe of Prayer;</hi> which, like that of <hi>David,</hi>
+                  <note place="margin">Pſa 69.9.</note> had eaten her up, whilſt the zeal of others, had almoſt eaten up thoſe houſes. She had a large ſhare in that promiſe,
+<note place="margin">Iſa. 56.7.</note> 
+                  <hi>I will make them joyful in my Houſe of Prayer.</hi> She did not <hi>forſake the aſsem<g ref="char:EOLhyphen"/>bly, as the manner of ſome is:</hi> (and it is to be hoped thoſe manners will be mended ſhortly) nor was ſhe like him in the Poet,
+<note place="margin">
+                     <hi>Hor. Car.</hi> li. 1. <hi>Od.</hi> 34.</note> — <hi>Parcus Deorum cul<g ref="char:EOLhyphen"/>tor &amp; infrequens</hi> — One that came ſeldom, when liſt and leiſure would give her leave: but diſpoſed like thoſe in the <hi>Pſalmiſt,</hi>
+                  <note place="margin">Pſa. 122.2.</note> 
+                  <hi>Our feet ſhall ſtand,</hi> ſhall ſtand often, <hi>within thy gates O Hieruſalem:</hi> of <hi>Davids</hi> temper juſt,
+<note place="margin">Pſa. 27.4.</note> 
+                  <hi>One thing have I deſired of the Lord, that will I ſeek after, that I may dwell in the Houſe of the Lord all the days of my life, to behold the beauty of the Lord, and to enquire in his Temple.</hi>
+               </p>
+               <p>She was <hi>ſwift to hear,</hi>
+                  <note place="margin">Ja. 1.19.</note> and yet not ſo ſwift to ſwallow down all for ſound Doctrine, which ſhe heard. She had
+<pb n="52" facs="tcp:33371:33"/>a careful and commendable jealouſie over the plauſible Doctrines of the late daies of defection; and could ſpy <hi>Rebellion,</hi> when it preached in the Cloak of <hi>Religion.</hi> As the noble <hi>Be<g ref="char:EOLhyphen"/>reans,</hi>
+                  <note place="margin">Act. 17.11.</note> ſhe <hi>received the Word with all readineſſe of mind:</hi> but withal, <hi>ſearched the Scriptures daily, whether thoſe things were ſo.</hi> She took not truths upon truſt, and the bare credit of Authors, no, not of thoſe, whoſe names were moſt toſſed, and ſounded no leſs than Oracular in the world; <hi>Ad legem ma<g ref="char:EOLhyphen"/>gis,</hi> ſhe kept to that, <hi>To the Law, and to the Teſtimony.</hi>
+                  <note place="margin">Iſa. 8.20.</note> She knew there was much Copper Divinity become cur<g ref="char:EOLhyphen"/>rant, and therefore brought it to the Touch, being caution'd by the Apo<g ref="char:EOLhyphen"/>ſtle,
+<note place="margin">1 Theſ. 5.21.</note> to <hi>prove all things, and hold faſt that which is good.</hi> So that look at her in this firſt reference, and ſhe hath good right in that title of <hi>Piiſſima,</hi> ſometimes given by eminency to St. <hi>Hellen,</hi> the Mother of <hi>Conſtantine;</hi> or ſhe may put in her claim to <hi>Hierophile,</hi>
+                  <note place="margin">Sybilla Cu<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ana dict. <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ierophile <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ud Suid.</note> given as an <hi>Agnomen</hi> once to one of her name-ſakes. That for her refe<g ref="char:EOLhyphen"/>rence to God.</p>
+               <p n="2">2. To Gods Lieutenant, her, and
+<pb n="53" facs="tcp:33371:33"/>our Soveraign, ſhe was invincibly faithful, following him through the viciſſitudes of his fortunes, with con<g ref="char:EOLhyphen"/>ſtancy and reſolution. No aſſaults could batter, no ſiege force a ſurren<g ref="char:EOLhyphen"/>der of her loyalty; ſhe had trial of both. She knew how to ſuffer, better than the Kings Enemies to oppreſs, and they were pretty good at it. Such a compoſition of Piety and Loyalty, one ſhould rarely meet withal. Her practice was an irrefragable confutati<g ref="char:EOLhyphen"/>on to that black-mouth'd ſlander, (of thoſe who called themſelves only ho<g ref="char:EOLhyphen"/>neſt that leaſt deſerved it) that a <hi>Roy<g ref="char:EOLhyphen"/>aliſt</hi> could not be <hi>Religious.</hi>
+               </p>
+               <p>I ſhould not have mentioned this of her, but in oppoſition to the <hi>Bod<g ref="char:EOLhyphen"/>kins</hi> and <hi>Thimbles,</hi> the Sword and Gantlet of that ſex, which were made uſe of, to promote the beginnings of the late Rebellion. She was a perſon of undaunted, untainted loyalty, and yet her confidence rarely tempered with an holy fear, ſtill ſhewing cou<g ref="char:EOLhyphen"/>rage in the worſt, fear in the beſt of times.</p>
+               <q>
+                  <l>Sperat infeſtis,
+<note place="margin">
+                        <hi>Hor. Carm.</hi> l. 2. <hi>O.</hi> 10.</note> metuit ſecundis</l>
+                  <l>Alteram ſortem, benè praeparatum</l>
+                  <l>Pectus —</l>
+               </q>
+               <pb n="54" facs="tcp:33371:34"/>
+               <p>And that was her ſecond publick reference.</p>
+               <p n="3">3. To Gods Church ſhe was rarely devoted: praying often and earneſtly <hi>for the peace of Hieruſalem,</hi>
+                  <note place="margin">Pſa. 1.22.6.</note> and ſhe <hi>proſpered for loving</hi> of it. Her love to this Church, will need no further evi<g ref="char:EOLhyphen"/>dence, when I have told you, it was her conſtant practice, during our late confuſions in Worſhip, to repair to places, where <hi>Common Prayer, and Ad<g ref="char:EOLhyphen"/>miniſtration of Sacraments</hi> might be had <hi>according to the uſe of the Church of England.</hi> Which is ſo much the more for her honour, as feminine weakneſs expoſeth ſooner to the at<g ref="char:EOLhyphen"/>tempts of ſeducers. The Apoſtle tells us who are the ſpoils of thoſe <hi>Wor<g ref="char:EOLhyphen"/>thies,</hi>
+                  <note place="margin">2 Tim. 3.6.</note> 
+                  <hi>They creep into houſes, and lead cap<g ref="char:EOLhyphen"/>tive ſilly women.</hi> It is notoriouſly known, that theſe ſwell'd their Bills of Proſelites, and gratified the tri<g ref="char:EOLhyphen"/>umphs of thoſe popular <hi>Rabbi</hi>'s, who were wont to <hi>Poll</hi> for applauſe, and glory more in the noiſe and number, than in the worth and wiſdome of their Diſciples; but being like bodies Electrical, whoſe alliciency goes no further than ſtraw or chaffe; ſhe was
+<pb n="55" facs="tcp:33371:34"/>too weighty for ſuch attractions.</p>
+               <p>If you now look a while at her pri<g ref="char:EOLhyphen"/>vate references, 1. She was as good a Wife as a woman. She had the way to make gains of an Husband (as St.
+<note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. 1 <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>et. 3.1.</note> 
+                  <hi>Peters</hi> word ſignifies, and a good way too, ſuch a way as <hi>Livia</hi> had to win hers, which <hi>Dio</hi> ſaies, was <hi>Multa mo<g ref="char:EOLhyphen"/>deſtia.</hi>
+               </p>
+               <p>We had too ſad a teſtimony of her affection, in thoſe impreſſions which his death made upon her; indeed we may date her death from his: for we can ſcarce ſay ſhe lived ſince, unleſs to bewail her life; <hi>Heu mihi,</hi>
+                  <note place="margin">Pſa. 120 5.</note> 
+                  <hi>quia incola<g ref="char:EOLhyphen"/>tus meus prolongatus eſt!</hi> As if ſhe had taken up <hi>Ruths</hi> reſolution,
+<note place="margin">Ruth 1.17.</note> 
+                  <hi>Where thou dyeſt, will I dye, and there will I be buri<g ref="char:EOLhyphen"/>ed</hi> And we may commemorate them in <hi>Davids</hi> Funeral expreſſions,
+<note place="margin">2 Sa. 1.23.</note> 
+                  <hi>They were lovely and pleaſant in their lives, and in their death they were not divided.</hi>
+               </p>
+               <q>
+                  <l>— Ille dies utramque
+<note place="margin">
+                        <hi>Hor. Carm.</hi> li. 2. <hi>Od.</hi> 17.</note>
+                  </l>
+                  <l>Ducet ruinam —</l>
+               </q>
+               <p n="2">2. Though ſhe had not the breaſts, yet ſhe had the bowels of a Mother. And even in that relation ſhe was ſo
+<pb n="56" facs="tcp:33371:35"/>tender, and affectionate, and deſerved ſo well, that her Children will riſe up and call her bleſſed, (that is) both bleſs her, and bleſs God for her, as ſome gloſs upon that place.</p>
+               <p n="3">3. And a <hi>Mater-familias</hi> ſhe was too, a <hi>Mother</hi> as well as a <hi>Miſtris</hi> to her Family. With the vertuous woman (in that ſo often named Chapter of the Proverbs) <hi>She looked well to the wayes of her Houſhold. Speculatur itinera domus ſuae:</hi> ſhe watcheth as from a Tower, for the ſecurity of her family, that they may go out and come in, in peace. It was her care, even now in her ſickneſs, that prayers among them might not be laid aſide with her; and in her health, not over-imploying them, ſhe would often ſay, it was her deſire, her ſervants might have leiſure to ſerve God as well as her ſelf.</p>
+               <p>Theſe were her Relations within doors; nor was her goodneſs circum<g ref="char:EOLhyphen"/>ſcribed with the walls of her houſe; but if you follow her from home, you may trace her by the footſteps of her friendſhip and charity, ſo careful ſhe was <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, and <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,
+<note place="margin">1 Tim. 6.18.</note> both <hi>to do good, and be rich in
+<pb n="57" facs="tcp:33371:35"/>good works,</hi> away to grow rich that few uſe, the world will not believe it.</p>
+               <p>I need not ſpeak here of her com<g ref="char:EOLhyphen"/>paſſions towards thoſe in miſery, her care and conſtancy, in viſiting the ſick, relieving the poor, ſupporting the weak, and ſupplying thoſe in want: there are enough can ſhew thoſe <hi>Garments which Dorcas made when ſhe was yet alive.</hi>
+                  <note place="margin">Act. 9.39.</note>
+               </p>
+               <p>Thus lived this <hi>excellent Lady,</hi>
+                  <note place="margin">Act. 23.1.</note> 
+                  <hi>in all good conſcience before God,</hi> all her dayes. And ſutable to her life, was her death, <hi>mark the perfect,</hi>
+                  <note place="margin">Pſa. 37.37.</note> 
+                  <hi>and be<g ref="char:EOLhyphen"/>hold the upright: for the end of that man,</hi> and woman, <hi>is peace.</hi>
+               </p>
+               <p>When the dayes <hi>drew near that</hi> ſhe <hi>muſt dye,</hi>
+                  <note place="margin">Gen. 47.29.</note> ſhe fell ſick by proxy, of the Small Pox,
+<note place="margin">
+                     <hi>Madam</hi> K. Eger<g ref="char:EOLhyphen"/>ton.</note> in a <hi>young Lady</hi> of her Relation, ſuch was her tender<g ref="char:EOLhyphen"/>neſſe of her. And knowing how fa<g ref="char:EOLhyphen"/>tal that diſeaſe had been to many of her fleſh and blood, ſhe entertains it, as coming on the ſame errand with <hi>Hezekiahs</hi> meſſenger;
+<note place="margin">2 K. 20.1.</note> 
+                  <hi>Set thine houſe in order, for thou ſhalt dye, and not live.</hi> A little warning ſerves a Tenant that's provided for a remove. She's
+<pb n="58" facs="tcp:33371:36"/>now all upon flitting, breaths after her change;
+<note place="margin">Pſa. 55.6.</note> 
+                  <hi>O that I had wings like a Dove, for then would I flye away and be at reſt!</hi> Hereupon ſhe makes her Will, diſpoſeth of her Eſtate, that ſhe might have no weights upon her ſoul, ready to take its flight; no<g ref="char:EOLhyphen"/>thing to incumber her thoughts, or ſtand betwixt her, and her deſired happineſs; but wholly and freely intend her expedition for another world. Which done, her hand will tell you where her heart was: for thus ſhe ſubſcribes that Teſtament of hers,
+<note place="margin">Pſa. 116.7.</note> And now <hi>return to thy reſt O my ſoul.</hi>
+               </p>
+               <p>God finding her thus prepared for himſelf, ſends another meſſenger for her, (not the Pox, which ſhe loved not, and upon ſome account feared, but) a Quartane Ague, a meſſenger not ſo ugly, but as ſharp as the other. This, after ſeveral aſſaults, began to prevail upon her, and inſult over her, inſomuch that ſhe ſaw (with <hi>Pe<g ref="char:EOLhyphen"/>ter) I muſt ſhortly put off my Taberna<g ref="char:EOLhyphen"/>cle,</hi>
+                  <note place="margin">2 Pet. 1.14.</note> and ſaid (with <hi>Hezekiah) In the cutting off of my dayes,</hi>
+                  <note place="margin">Iſa. 38.10.</note> 
+                  <hi>I ſhall go to the gates of the grave. I am deprived of
+<pb n="59" facs="tcp:33371:36"/>the reſidue of my years.</hi> Being now to go through the valley of the ſhadow of death, ſhe ſought a ſtaffe of com<g ref="char:EOLhyphen"/>fort to ſupport her in the way; and ſome few dayes before received the Sacrament of the Lords Supper, and that with ſo much fervency, and holy appetite, ſo <hi>eating the fleſh of the Son of man,</hi> and ſo <hi>drinking his blood,</hi> as gave good evidence ſhe <hi>hath eternal life,</hi>
+                  <note place="margin">Joh. 6.54.</note> and that he will <hi>raiſe her up at the laſt day.</hi> And one thing I may not omit without injury to her, that notwithſtanding her weakneſs, ſhe would not receive it any wayes but kneeling, in deteſtation of that ſlo<g ref="char:EOLhyphen"/>venly, Elephant Devotion of our dayes, and in obedience to the Orders of the Church, and chiefly, in teſtimo<g ref="char:EOLhyphen"/>ny of that great humility of ſoul, with which ſhe deſired <hi>to worſhip, and fall down before the Lord her Maker.</hi> And this was the laſt <hi>Manna</hi> ſhe ate on this ſide <hi>Jordan.</hi>
+               </p>
+               <p>The day before ſhe dyed, I came to viſit her, and found the <hi>time of her de<g ref="char:EOLhyphen"/>parture was at hand.</hi> She then deſired me to pray with her, and to abſolve her, according to the uſe of the
+<pb n="60" facs="tcp:33371:37"/>
+                  <hi>Church of England;</hi> which according<g ref="char:EOLhyphen"/>ly I did, and however ſome living Se<g ref="char:EOLhyphen"/>ctaries ſet light by it, yet I am ſure, ſhe, and other dying Saints, have found no little comfort in it, in the hour of their extremity. This I am ſure was the practice of the Church, long e<g ref="char:EOLhyphen"/>nough before <hi>Presbytery</hi> (as we now uſe the word) was either made or thought on. And <hi>Fanatick</hi> is no new word; it was uſed as a term fitting men of contrary opinions, many years ſince,
+<note place="margin">
+                     <hi>Apud Mar<g ref="char:EOLhyphen"/>lor. p.</hi> 602. <hi>c.</hi> 2.</note> by <hi>Muſculus; Fanaticos autem homines ſciamus, dum hanc legationem ſpernunt,</hi>
+                  <note place="margin">
+                     <hi>Calv. In<g ref="char:EOLhyphen"/>stit. l.</hi> 4. <hi>Cap.</hi> 4. <hi>Sect.</hi> 12.</note> 
+                  <hi>Chriſti ſanguinem pedibus cal<g ref="char:EOLhyphen"/>care.</hi> And if Mr. <hi>Calvin</hi> be not worn out of credit with theſe men, they may ſee him very earneſt in aſſerting the expediency of this delegation, to the Miniſters of the Goſpel.
+<note place="margin">Job. 20.23.</note> And un<g ref="char:EOLhyphen"/>doubtedly that Commiſſion, <hi>Whoſe ſins ye remit, they are remitted unto them,</hi> being the firſt words that our Saviour ſpoke to the Diſciples all to<g ref="char:EOLhyphen"/>gether, after his reſurrection, and up<g ref="char:EOLhyphen"/>on the very day of it, coming from his breath as ſoon as it was immortal (as the Fathers obſerve) carries ſome no<g ref="char:EOLhyphen"/>table import of power along with it,
+<pb n="61" facs="tcp:33371:37"/>was not to dye with the Apoſtles, and terminate in their perſons; but derives this power of the Keys to infinite ſuc<g ref="char:EOLhyphen"/>ceſſion, and is to be a ſtanding Ordi<g ref="char:EOLhyphen"/>nance in the Church of God to the end of the world. I beg pardon for this digreſſion, the petulancy of theſe times hath forced it from me.</p>
+               <p>Give me leave now to tell you of one paſſage very remarkable in her, (I have already ſpoke of it, little thinking it would fall to my lot to tell it here) when I had read the Ver<g ref="char:EOLhyphen"/>ſicle, appointed in the viſitation of the ſick, <hi>O Lord, ſave thy Servant,</hi> and ſome rehearſed the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Which putteth her truſt in thee:</hi> She ſtarted up with much earneſtneſs, hands, and eyes, and heart, and all, lift up, and added, I, and my whole confidence Lord: as if ſhe apprehended <hi>Truſt</hi> too low, to ſpeak the height of her ſoul now ſublimated, and ready to go to the God of the ſpirits of all fleſh.</p>
+               <p>In this height of well-grounded confidence, I left her, full of the com<g ref="char:EOLhyphen"/>forts of God, fit for the Convoy of Angels, in the Confines of that glo<g ref="char:EOLhyphen"/>ry ſhe had ſo long breathed after; in
+<pb n="62" facs="tcp:33371:38"/>in the Suburbs of that City ſhe had ſo earneſtly ſought, and immediately entered,
+<note place="margin">Rev. 21.23.</note> which <hi>the glory of God light<g ref="char:EOLhyphen"/>ens, and the Lamb is the light thereof.</hi>
+               </p>
+               <p>God had given her her hearts de<g ref="char:EOLhyphen"/>ſire, to ſee what ſhe had often begg'd to ſee, though with a <hi>nunc dimittis</hi> in her mouth: our rejected, almoſt abju<g ref="char:EOLhyphen"/>red King, recalled with honour, and without blood, coming home in tri<g ref="char:EOLhyphen"/>umph upon the wings of his peoples prayers and votes; our divided, al<g ref="char:EOLhyphen"/>moſt devoured Church, reſtored to ſome hopeful degrees of peace, and ſoundneſs; our broken, almoſt ruined Nation, put into ſomerepairs, and well on the way towards tranquility, and plenty;
+<note place="margin">Pſa 128.6.</note> ſhe ſaw (his) <hi>childrens chil<g ref="char:EOLhyphen"/>dren,</hi> (whom love made her own) <hi>and peace upon Iſrael:</hi> and there being no<g ref="char:EOLhyphen"/>thing on Earth to be ſeen after theſe, ſhe's gone to Heaven, to ſee the com<g ref="char:EOLhyphen"/>plement of all ſights, the bleſſed face of God, and take poſſeſſion of that City, we are ſtill ſeeking after.</p>
+            </div>
+            <epigraph>
+               <q>We ſeek one to come.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
